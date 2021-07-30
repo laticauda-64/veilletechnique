@@ -29,7 +29,7 @@ export default function SearchBox({
 		clearInput();
 	};
 
-	const debouncedChangeHandler = useMemo(() => debounce(handleChange, 500), []);
+	const debouncedChangeHandler = useMemo(() => debounce(handleChange, 300), []);
 
 	const clearInput = () => {
 		searchInput.current.value = '';
@@ -38,9 +38,17 @@ export default function SearchBox({
 		setisClearButtonDisplayed(false);
 	};
 
+	const checkForEscapeKey = (e) => {
+		if (e.key === 'Escape') {
+			clearInput();
+		}
+	};
+
 	useEffect(() => {
 		clearInput();
+		window.addEventListener('keydown', checkForEscapeKey);
 		return () => {
+			window.addEventListener('keydown', checkForEscapeKey);
 			debouncedChangeHandler.cancel();
 		};
 	}, []);
