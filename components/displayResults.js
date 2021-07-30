@@ -26,6 +26,7 @@ function DisplayResults({ data }) {
 				setLinks={setLinks}
 				data={data}
 				setSearchWord={setSearchWord}
+				sethasMore={sethasMore}
 			/>
 			<div>
 				<main className={styles.container}>
@@ -40,15 +41,15 @@ function DisplayResults({ data }) {
 							justifyContent: 'space-evenly',
 							gridGap: '0.5rem',
 						}}
-						endMessage={
-							<p style={{ textAlign: 'center' }}>
-								<b>Yay! You have seen it all</b>
-							</p>
-						}
+						endMessage={null}
 					>
-						{links.map((e) => (
-							<Card key={e.id} link={e.embeds[0]} searchWord={searchWord} />
-						))}
+						{links.length > 0 ? (
+							links.map((e) => (
+								<Card key={e.id} link={e.embeds[0]} searchWord={searchWord} />
+							))
+						) : (
+							<p className={styles.notFound}>Aucun lien trouvé...</p>
+						)}
 					</InfiniteScroll>
 				</main>
 			</div>

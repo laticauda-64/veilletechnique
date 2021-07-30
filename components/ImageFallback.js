@@ -12,6 +12,7 @@ const ImageFallback = (props) => {
 	return (
 		<Image
 			{...rest}
+			alt="Image décorative de lien"
 			src={imgSrc ? fallbackSrc : src}
 			onError={() => {
 				setImgSrc(true);

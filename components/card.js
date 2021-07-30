@@ -7,13 +7,13 @@ export default function Card({ link, searchWord }) {
 	const title = {
 		__html: link.title.replace(
 			regex,
-			`<span class="highlightText">${searchWord}</span>`
+			`<span class="${styles.highlightText}">${searchWord}</span>`
 		),
 	};
 	const description = {
 		__html: link.description.replace(
 			regex,
-			`<span class="highlightText">${searchWord}</span>`
+			`<span class="${styles.highlightText}">${searchWord}</span>`
 		),
 	};
 	return (
