@@ -46,6 +46,7 @@ export default function SearchBox({
 
 	useEffect(() => {
 		clearInput();
+		searchInput.current.focus();
 		window.addEventListener('keydown', checkForEscapeKey);
 		return () => {
 			window.addEventListener('keydown', checkForEscapeKey);
