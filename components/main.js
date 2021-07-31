@@ -5,7 +5,7 @@ import InfiniteScroll from 'react-infinite-scroll-component';
 import Loader from './Loader';
 import SearchBox from './searchBox';
 
-function DisplayResults({ data }) {
+function Main({ data }) {
 	const [links, setLinks] = useState(data.slice(0, 19));
 	const [hasMore, sethasMore] = useState(true);
 	const [searchWord, setSearchWord] = useState('');
@@ -57,4 +57,4 @@ function DisplayResults({ data }) {
 	);
 }
 
-export default DisplayResults;
+export default Main;

@@ -38,7 +38,7 @@ export default function SearchBox({
 		setisClearButtonDisplayed(false);
 	};
 
-	const checkForEscapeKey = (e) => {
+	const listenKeyStroke = (e) => {
 		if (e.key === 'Escape') {
 			clearInput();
 		}
@@ -47,9 +47,9 @@ export default function SearchBox({
 	useEffect(() => {
 		clearInput();
 		searchInput.current.focus();
-		window.addEventListener('keydown', checkForEscapeKey);
+		window.addEventListener('keydown', listenKeyStroke);
 		return () => {
-			window.addEventListener('keydown', checkForEscapeKey);
+			window.addEventListener('keydown', listenKeyStroke);
 			debouncedChangeHandler.cancel();
 		};
 	}, []);

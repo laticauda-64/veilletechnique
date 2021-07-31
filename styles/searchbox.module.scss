@@ -6,6 +6,7 @@
 
 .searchBar input[type='text'] {
 	height: 4rem;
+	margin-left: -35px;
 	flex-basis: 50%;
 	padding: 0.2rem;
 	font-size: 2rem;
@@ -34,10 +35,15 @@
 	}
 }
 
+@media screen and (max-width: 1280px) {
+	.searchBar input[type='text'] {
+		flex-basis: 75%;
+	}
+}
+
 @media screen and (max-width: 1024px) {
 	.searchBar input[type='text'] {
 		flex-basis: 85%;
-		margin-left: -35px;
 	}
 }
 
@@ -45,7 +51,6 @@
 	.searchBar input[type='text'] {
 		flex-basis: auto;
 		max-width: 390px;
-		margin-left: -35px;
 	}
 
 	.clearButton {

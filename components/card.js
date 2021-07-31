@@ -20,8 +20,8 @@ export default function Card({ link, searchWord }) {
 		<a href={link.url} rel="noreferrer" target="_blank" className={styles.card}>
 			<div className={styles.imgContainer}>
 				<ImageFallback
-					src={link.thumbnail?.url || '/not-found-img.png'}
-					fallbackSrc={'/not-found-img.png'}
+					src={link.thumbnail?.url || '/not-found-img.svg'}
+					fallbackSrc={'/not-found-opt.svg'}
 					alt={link.description}
 					className={styles.linkPicture}
 					layout="fill"
