@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import Link from 'next/link';
 import React from 'react';
-import styles from '../styles/LandingPage.module.scss';
+import styles from '../styles/main.module.scss';
 import { getCleanData } from '../lib/exportDiscord';
 import DisplayResults from '../components/DisplayResults';
 
