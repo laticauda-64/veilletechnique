@@ -1,9 +1,9 @@
 import Head from 'next/head';
 import Link from 'next/link';
 import React from 'react';
-import styles from '../styles/LandingPage.module.scss';
+import styles from '../styles/main.module.scss';
 import { getCleanData } from '../lib/exportDiscord';
-import DisplayResults from '../components/DisplayResults';
+import Main from '../components/Main';
 
 export default function Home({ data }) {
 	// console.log(data);
@@ -11,7 +11,10 @@ export default function Home({ data }) {
 		<div>
 			<Head>
 				<title>#VeilleTechnique - Archives</title>
-				<meta name="description" content="Archives du chan #veille-technique" />
+				<meta
+					name="description"
+					content="Archives du salon #veille-technique. Chan discord : developpeurwebjunior.fr"
+				/>
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 			<Link href="/">
@@ -21,7 +24,7 @@ export default function Home({ data }) {
 					</h1>
 				</a>
 			</Link>
-			<DisplayResults data={data} />
+			<Main data={data} />
 		</div>
 	);
 }
