@@ -1,5 +1,6 @@
 import styles from '../styles/card.module.scss';
 import ImageFallback from './ImageFallback';
+import Star from '../public/star.svg';
 
 export default function Card({ link, searchWord }) {
 	let domain = new URL(link.url);
@@ -18,6 +19,7 @@ export default function Card({ link, searchWord }) {
 	};
 	return (
 		<a href={link.url} rel="noreferrer" target="_blank" className={styles.card}>
+			<Star title={'Ajouter aux favoris'} className={styles.starIcon} />
 			<div className={styles.imgContainer}>
 				<ImageFallback
 					src={link.thumbnail?.url || '/not-found-img.svg'}

@@ -50,9 +50,33 @@
 }
 .imgContainer {
 	position: relative;
+	top: -46px;
 	width: 100%;
 	height: 200px;
 }
 .highlightText {
 	background: #ffe300;
+}
+
+.starIcon {
+	width: 42px;
+	height: 41x;
+	position: relative;
+	top: 5px;
+	z-index: 200;
+	margin-left: auto;
+	margin-right: 10px;
+	filter: drop-shadow(6px 2px 0px rgba(114, 114, 114, 0.8));
+
+	path {
+		fill: hsl(0, 0%, 100%);
+		stroke-width: 0;
+	}
+	&:hover {
+		cursor: pointer;
+	}
+
+	&:hover > path {
+		fill: hsl(50, 100%, 50%);
+	}
 }
