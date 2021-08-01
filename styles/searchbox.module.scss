@@ -2,6 +2,7 @@
 	width: 100%;
 	display: flex;
 	justify-content: center;
+	align-items: center;
 }
 
 .searchBar input[type='text'] {
@@ -20,7 +21,8 @@
 
 .clearButton {
 	width: 35px;
-	background-image: url(../public/delete.svg);
+	height: 64px;
+	background-image: url(/delete.svg);
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position-y: center;
@@ -32,6 +34,28 @@
 
 	&:hover {
 		cursor: pointer;
+	}
+}
+
+.starIcon {
+	margin-left: 20px;
+	width: 60px;
+	height: 58px;
+	-webkit-filter: drop-shadow(3px 3px 2px rgba(114, 114, 114, 0.7));
+	filter: drop-shadow(6px 2px 0px rgba(114, 114, 114, 0.4));
+
+	path {
+		fill: hsl(0, 0%, 100%);
+		stroke: hsl(224, 20%, 49%);
+		stroke-width: 0;
+	}
+	&:hover {
+		cursor: pointer;
+	}
+
+	&:hover > path {
+		cursor: pointer;
+		fill: hsl(50, 100%, 50%);
 	}
 }
 

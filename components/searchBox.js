@@ -1,4 +1,5 @@
 import React, { useState, useRef, useMemo, useEffect } from 'react';
+import Star from '../public/star.svg';
 import debounce from 'lodash.debounce';
 import styles from '../styles/searchbox.module.scss';
 
@@ -78,6 +79,7 @@ export default function SearchBox({
 					setisClearButtonDisplayed(true);
 				}}
 			/>
+			<Star title={'Icone favoris'} className={styles.starIcon} />
 		</div>
 	);
 }
