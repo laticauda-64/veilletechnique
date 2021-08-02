@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import styles from '../styles/main.module.scss';
 import Card from './Card';
 import InfiniteScroll from 'react-infinite-scroll-component';
@@ -45,7 +45,12 @@ function Main({ data }) {
 					>
 						{links.length > 0 ? (
 							links.map((e) => (
-								<Card key={e.id} link={e.embeds[0]} searchWord={searchWord} />
+								<Card
+									key={e.id}
+									id={e.id}
+									link={e.embeds[0]}
+									searchWord={searchWord}
+								/>
 							))
 						) : (
 							<p className={styles.notFound}>Aucun lien trouvé...</p>
