@@ -36,7 +36,6 @@
 
   <p align="center">
     L'archive de tous les liens postés dans le chan #Veille-technique du discord du site www.developpeurwebjunior.fr
-
     <br />
     <a href="https://github.com/laticauda-64/veilletechnique"><strong>Explorer les sources »</strong></a>
     <br />
