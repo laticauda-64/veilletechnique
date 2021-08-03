@@ -1,8 +1,16 @@
 {
-  "extends": ["next", "next/core-web-vitals", "eslint:recommended"],
-  "rules": { "no-unused-vars": ["warn"] },
-  "env": {
-    "browser": true,
-    "node": true
-  }
+	"extends": ["next", "next/core-web-vitals", "eslint:recommended"],
+	"rules": {
+		"no-unused-vars": ["warn"],
+		"import/no-anonymous-default-export": [
+			"error",
+			{
+				"allowObject": true
+			}
+		]
+	},
+	"env": {
+		"browser": true,
+		"node": true
+	}
 }
