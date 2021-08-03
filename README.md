@@ -36,16 +36,12 @@
 
   <p align="center">
     L'archive de tous les liens postés dans le chan #Veille-technique du discord du site www.developpeurwebjunior.fr
-
     <br />
-    <a href="https://github.com/laticauda-64/veilletechnique"><strong>Explorer les sources »</strong></a>
     <br />
     <br />
     <a href="https://github.com/laticauda-64/veilletechnique">Voir le site</a>
     ·
     <a href="https://github.com/laticauda-64/veilletechnique/issues">Reporter un bug</a>
-    ·
-    <a href="https://github.com/laticauda-64/veilletechnique/issues">Demander un rajout de fonctionnalité</a>
 
   </p>
 </p>
@@ -76,16 +72,13 @@
 
 ## A propos
 
-    [![#Veille-Technique capture d'écran][product-screenshot]](https://vercel.com)
+[![#Veille-Technique capture d'écran][product-screenshot]](https://vercel.com)
 
-    Ce site archive tous les liens postés dans le salon #VeilleTechnique sur le discord du site www.developpeurwebjunior.fr
-    Vous pouvez enregistrer les liens en favoris en cliquant sur l'étoile, la sauvegarde se fait dans le localStorage de votre navigateur.
-    Raccourci : "Echap" efface la boite de recherche.
-    Site hébergé chez [Vercel](https://vercel.com/) en "free-plan", les performances peuvent être aléatoires.
+Ce site archive tous les liens postés dans le salon #VeilleTechnique sur le discord du site www.developpeurwebjunior.fr . Vous pouvez enregistrer les liens en favoris en cliquant sur l'étoile, la sauvegarde se fait dans le localStorage de votre navigateur. Raccourci : "Echap" efface la boite de recherche. Site hébergé chez [Vercel](https://vercel.com/) en "free-plan", les performances peuvent être aléatoires.
 
-    Ceci est un projet à but pédagogique, c'est mon premier site avec Nextjs. Vous pouvez ré-utiliser ce code comme bon vous semble.
+Ceci est un projet à but pédagogique, c'est mon premier site avec Nextjs. Vous pouvez ré-utiliser ce code comme bon vous semble.
 
-    La mise à jour des nouveaux liens est actuellement manuelle.
+La mise à jour des nouveaux liens est actuellement manuelle.
 
 ### Construit avec
 
@@ -101,8 +94,8 @@ Pour lancer une copie locale, suivre les étapes suivantes :
 
 ### Prerequis
 
-Node v16 ou versions plus récentes.
-Un scrap du channel au format JSON, à mettre dans le dossier "data".
+- Node v16 ou versions plus récentes.
+- Un scrap du channel au format JSON, à mettre dans le dossier "data".
 
 ### Installation
 
@@ -140,12 +133,14 @@ Lien du projet: [https://github.com/laticauda-64/veilletechnique](https://github
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/laticauda-64/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/laticauda-64/repo/graphs/contributors
-[stars-shield]: https://img.shields.io/github/stars/laticauda-64/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/laticauda-64/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/laticauda-64/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/laticauda-64/repo/issues
-[license-shield]: https://img.shields.io/github/license/laticauda-64/repo.svg?style=for-the-badge
-[license-url]: https://github.com/laticauda-64/repo/blob/master/LICENSE.txt
-[product-screenshot]: public/screenshot.png
+[contributors-shield]: https://img.shields.io/github/contributors/laticauda-64/veilletechnique.svg?style=for-the-badge
+[contributors-url]: https://github.com/laticauda-64/veilletechnique/graphs/contributors
+[stars-shield]: https://img.shields.io/github/stars/laticauda-64/veilletechnique.svg?style=for-the-badge
+[stars-url]: https://github.com/laticauda-64/veilletechnique/stargazers
+[forks-shield]: https://img.shields.io/github/forks/laticauda-64/veilletechnique.svg?style=for-the-badge
+[forks-url]: https://github.com/laticauda-64/veilletechnique/network/members
+[issues-shield]: https://img.shields.io/github/issues/laticauda-64/veilletechnique.svg?style=for-the-badge
+[issues-url]: https://github.com/laticauda-64/veilletechnique/issues
+[license-shield]: https://img.shields.io/github/license/laticauda-64/veilletechnique.svg?style=for-the-badge
+[license-url]: https://github.com/laticauda-64/veilletechnique/blob/main/LICENSE
+[product-screenshot]: public/screenshot.jpg

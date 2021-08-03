@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import styles from '../styles/card.module.scss';
-import ImageFallback from './imageFallback';
+import ImageFallback from './ImageFallback';
 import Star from '../public/star.svg';
 import * as toLocalStorage from '../lib/localStorage';
 
