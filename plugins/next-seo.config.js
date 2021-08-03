@@ -8,7 +8,7 @@ export default {
 			"L'archive de tous les liens postés dans le chan #Veille-technique => discord du site www.developpeurwebjunior.fr",
 		images: [
 			{
-				url: 'https://veilletechnique.vercel.app/screenshot.jpg',
+				url: 'https://raw.githubusercontent.com/laticauda-64/veilletechnique/main/public/screenshot.jpg',
 				width: 800,
 				height: 600,
 				alt: '#VeilleTechnique',
