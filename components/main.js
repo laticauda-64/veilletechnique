@@ -2,8 +2,8 @@ import React, { useState, useEffect, useRef } from 'react';
 import styles from '../styles/main.module.scss';
 import Card from './Card';
 import InfiniteScroll from 'react-infinite-scroll-component';
-import Loader from './loader';
-import SearchBox from './searchBox';
+import Loader from './Loader';
+import SearchBox from './SearchBox';
 
 function Main({ data }) {
 	const [links, setLinks] = useState(data.slice(0, 19));
