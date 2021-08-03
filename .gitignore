@@ -34,4 +34,4 @@ yarn-error.log*
 .vercel
 
 # data (scrap from discord)
-/data
+/data/
