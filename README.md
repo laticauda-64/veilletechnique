@@ -74,10 +74,7 @@
 
 [![#Veille-Technique capture d'écran][product-screenshot]](https://vercel.com)
 
-Ce site archive tous les liens postés dans le salon #VeilleTechnique sur le discord du site www.developpeurwebjunior.fr
-Vous pouvez enregistrer les liens en favoris en cliquant sur l'étoile, la sauvegarde se fait dans le localStorage de votre navigateur.
-Raccourci : "Echap" efface la boite de recherche.
-Site hébergé chez [Vercel](https://vercel.com/) en "free-plan", les performances peuvent être aléatoires.
+Ce site archive tous les liens postés dans le salon #VeilleTechnique sur le discord du site www.developpeurwebjunior.fr . Vous pouvez enregistrer les liens en favoris en cliquant sur l'étoile, la sauvegarde se fait dans le localStorage de votre navigateur. Raccourci : "Echap" efface la boite de recherche. Site hébergé chez [Vercel](https://vercel.com/) en "free-plan", les performances peuvent être aléatoires.
 
 Ceci est un projet à but pédagogique, c'est mon premier site avec Nextjs. Vous pouvez ré-utiliser ce code comme bon vous semble.
 
