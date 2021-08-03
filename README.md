@@ -140,12 +140,12 @@ Lien du projet: [https://github.com/laticauda-64/veilletechnique](https://github
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/laticauda-64/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/laticauda-64/repo/graphs/contributors
-[stars-shield]: https://img.shields.io/github/stars/laticauda-64/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/laticauda-64/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/laticauda-64/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/laticauda-64/repo/issues
-[license-shield]: https://img.shields.io/github/license/laticauda-64/repo.svg?style=for-the-badge
-[license-url]: https://github.com/laticauda-64/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/laticauda-64/veilletechnique.svg?style=for-the-badge
+[contributors-url]: https://github.com/laticauda-64/veilletechnique/graphs/contributors
+[stars-shield]: https://img.shields.io/github/stars/laticauda-64/veilletechnique.svg?style=for-the-badge
+[stars-url]: https://github.com/laticauda-64/veilletechnique/stargazers
+[issues-shield]: https://img.shields.io/github/issues/laticauda-64/veilletechnique.svg?style=for-the-badge
+[issues-url]: https://github.com/laticauda-64/veilletechnique/issues
+[license-shield]: https://img.shields.io/github/license/laticauda-64/veilletechnique.svg?style=for-the-badge
+[license-url]: https://github.com/laticauda-64/veilletechnique/blob/main/LICENSE
 [product-screenshot]: public/screenshot.png
