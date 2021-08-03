@@ -85,6 +85,8 @@
 
     Ceci est un projet à but pédagogique, c'est mon premier site avec Nextjs. Vous pouvez ré-utiliser ce code comme bon vous semble.
 
+    La mise à jour des nouveaux liens est actuellement manuelle.
+
 ### Construit avec
 
 - [NextJS](https://nextjs.org/)
@@ -100,6 +102,7 @@ Pour lancer une copie locale, suivre les étapes suivantes :
 ### Prerequis
 
 Node v16 ou versions plus récentes.
+Un scrap du channel au format JSON, à mettre dans le dossier "data".
 
 ### Installation
 
