@@ -144,6 +144,8 @@ Lien du projet: [https://github.com/laticauda-64/veilletechnique](https://github
 [contributors-url]: https://github.com/laticauda-64/veilletechnique/graphs/contributors
 [stars-shield]: https://img.shields.io/github/stars/laticauda-64/veilletechnique.svg?style=for-the-badge
 [stars-url]: https://github.com/laticauda-64/veilletechnique/stargazers
+[forks-shield]: https://img.shields.io/github/forks/laticauda-64/veilletechnique.svg?style=for-the-badge
+[forks-url]: https://github.com/laticauda-64/veilletechnique/network/members
 [issues-shield]: https://img.shields.io/github/issues/laticauda-64/veilletechnique.svg?style=for-the-badge
 [issues-url]: https://github.com/laticauda-64/veilletechnique/issues
 [license-shield]: https://img.shields.io/github/license/laticauda-64/veilletechnique.svg?style=for-the-badge
