@@ -8,6 +8,8 @@ export default function SearchBox({
 	setLinks,
 	setSearchWord,
 	sethasMore,
+	favMode,
+	setFavMode,
 }) {
 	const searchInput = useRef(null);
 	const clearButton = useRef(null);
@@ -27,6 +29,7 @@ export default function SearchBox({
 			sethasMore(false);
 			return;
 		}
+		setFavMode(false);
 		clearInput();
 	};
 
@@ -37,11 +40,13 @@ export default function SearchBox({
 		setLinks([...data.slice(0, 19)]);
 		sethasMore(true);
 		setisClearButtonDisplayed(false);
+		searchInput.current.nextSibling.firstChild.style.fill = 'white';
 	};
 
 	const listenKeyStroke = (e) => {
 		if (e.key === 'Escape') {
 			clearInput();
+			setFavMode(false);
 		}
 	};
 
@@ -63,11 +68,34 @@ export default function SearchBox({
 		clearButton.current.style.visibility = 'hidden';
 	}, [isClearButtonDisplayed]);
 
+	useEffect(() => {
+		searchInput.current.value = '';
+		setisClearButtonDisplayed(false);
+		searchInput.current.nextSibling.firstChild.style.fill = favMode
+			? '#ffd600'
+			: 'white';
+
+		if (favMode) {
+			const currFav = JSON.parse(localStorage.getItem('favList')) || [];
+			if (currFav.length > 0) {
+				setLinks([...data.filter((e) => currFav.indexOf(e.id) > -1)]);
+				sethasMore(false);
+			}
+			searchInput.current.disabled = true;
+			return;
+		}
+		searchInput.current.disabled = false;
+		clearInput();
+	}, [favMode]);
+
 	return (
 		<div className={styles.searchBar}>
 			<span
 				className={styles.clearButton}
-				onClick={clearInput}
+				onClick={() => {
+					clearInput();
+					setFavMode(false);
+				}}
 				ref={clearButton}
 			></span>
 			<input
@@ -79,7 +107,11 @@ export default function SearchBox({
 					setisClearButtonDisplayed(true);
 				}}
 			/>
-			<Star title={'Icone favoris'} className={styles.starIcon} />
+			<Star
+				title={'Icone favoris'}
+				className={styles.starIcon}
+				onClick={() => setFavMode((prevState) => !prevState)}
+			/>
 		</div>
 	);
 }

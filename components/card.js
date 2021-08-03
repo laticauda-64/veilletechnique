@@ -1,9 +1,10 @@
 import React, { useState, useEffect, useRef } from 'react';
 import styles from '../styles/card.module.scss';
-import ImageFallback from './ImageFallback';
+import ImageFallback from './imageFallback';
 import Star from '../public/star.svg';
+import * as toLocalStorage from '../lib/localStorage';
 
-export default function Card({ link, searchWord, id, favList }) {
+export default function Card({ link, searchWord, id }) {
 	const currentCard = useRef(null);
 	const [isLiked, setIsLiked] = useState(false);
 	let domain = new URL(link.url);
@@ -21,14 +22,7 @@ export default function Card({ link, searchWord, id, favList }) {
 		e.preventDefault();
 		e.stopPropagation(); // Prevent from clicking on link below
 		setIsLiked(!isLiked);
-		const currFav = JSON.parse(localStorage.getItem('favList')) || [];
-
-		if (currFav.indexOf(id) === -1) {
-			localStorage.setItem('favList', JSON.stringify([...currFav, id]));
-			return;
-		}
-		const newFav = currFav.filter((e) => e !== id);
-		localStorage.setItem('favList', JSON.stringify(newFav));
+		toLocalStorage.setFav(id);
 	};
 
 	useEffect(() => {
@@ -38,8 +32,7 @@ export default function Card({ link, searchWord, id, favList }) {
 	}, [isLiked]);
 
 	useEffect(() => {
-		const favList = JSON.parse(localStorage.getItem('favList')) || [];
-		if (favList.indexOf(id) > -1) {
+		if (toLocalStorage.checkId(id)) {
 			setIsLiked(true);
 		}
 	}, []);
