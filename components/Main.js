@@ -4,6 +4,7 @@ import Card from './Card';
 import InfiniteScroll from 'react-infinite-scroll-component';
 import Loader from './Loader';
 import SearchBox from './SearchBox';
+import NotFound from '../public/not_found_icon.svg';
 
 function Main({ data }) {
 	const [links, setLinks] = useState(data.slice(0, 19));
@@ -56,7 +57,12 @@ function Main({ data }) {
 								/>
 							))
 						) : (
-							<p className={styles.notFound}>Aucun lien trouvé...</p>
+							<>
+								<NotFound
+									alt={'Rien trouvé...'}
+									className={styles.notFoundIcon}
+								/>
+							</>
 						)}
 					</InfiniteScroll>
 				</main>
