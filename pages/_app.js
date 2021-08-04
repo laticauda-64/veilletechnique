@@ -1,3 +1,9 @@
+/*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  */
+/*                                                                       */
+/*              Next.js uses the App component to initialize pages.      */
+/*                                                                       */
+/*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  */
+
 import { DefaultSeo } from 'next-seo';
 import SEO from '../plugins/next-seo.config';
 import '../styles/globals.scss';

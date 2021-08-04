@@ -1,10 +1,16 @@
+/*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  */
+/*                                                                       */
+/*              Export data from Json file with some    		         */
+/*              filtering to reduce weight...		                     */
+/*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  */
+
 import data from '../data/developpeurwebjunior.json';
 
 export function getCleanData() {
-	// Retourne uniquement les liens comportant une miniature (Open Graph Meta Tags, Twitter card, etc...)
+	// Filter links with preview tag only (img/desc) : (Open Graph Meta Tags, Twitter card, etc...)
 	const filterNoEmptyLinks = data.messages.filter((e) => e.embeds.length > 0);
 
-	// Suppression propriétés inutile pour gagner sur le poids de la page
+	// Delete useless property to reduce weight
 	const filterDeleteUselessFields = filterNoEmptyLinks.map((e) => {
 		delete e.type;
 		delete e.timestampEdited;
@@ -24,7 +30,7 @@ export function getCleanData() {
 		return e;
 	});
 
-	// Renvoi la liste des résustats du plus récent au plus ancien
+	// Sort results from newest to older
 	return filterDeleteUselessFields.sort(
 		(a, b) => new Date(b.timestamp) - new Date(a.timestamp)
 	);
