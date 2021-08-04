@@ -16,7 +16,7 @@ export default function SearchBox({
 	const [isClearButtonDisplayed, setisClearButtonDisplayed] = useState(false);
 
 	const handleChange = (e) => {
-		const searchText = e?.target?.value.trim();
+		const searchText = e?.target?.value.trim().toLowerCase();
 		if (searchText != '') {
 			setSearchWord(searchText);
 			setLinks([
