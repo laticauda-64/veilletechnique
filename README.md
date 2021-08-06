@@ -126,7 +126,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Laticauda - [@https://twitter.com/yoannbdl](https://twitter.com/https://twitter.com/yoannbdl)
+Laticauda - [Twitter](https://twitter.com/https://twitter.com/yoannbdl)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
