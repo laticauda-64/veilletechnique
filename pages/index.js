@@ -1,12 +1,20 @@
 import Head from 'next/head';
 import Link from 'next/link';
-import React from 'react';
+import React, { useState, useRef } from 'react';
+import { useOnClickOutside } from '../utils/customHooks';
 import styles from '../styles/main.module.scss';
 import { getCleanData } from '../utils/exportDiscord';
 import Main from '../components/Main';
+import Burger from '../components/Burger/Burger';
 
 export default function Home({ data }) {
+	const [favMode, setFavMode] = useState(false);
+	const [sideMenuOpen, setSideMenuOpen] = useState(false);
+	const node = useRef();
+	useOnClickOutside(node, () => setSideMenuOpen(false));
+
 	// console.log(data);
+
 	return (
 		<div>
 			<Head>
@@ -24,7 +32,14 @@ export default function Home({ data }) {
 					</h1>
 				</a>
 			</Link>
-			<Main data={data} />
+			<Burger
+				sideMenuOpen={sideMenuOpen}
+				setSideMenuOpen={setSideMenuOpen}
+				favMode={favMode}
+				setFavMode={setFavMode}
+				ref={node}
+			/>
+			<Main data={data} favMode={favMode} setFavMode={setFavMode} />
 		</div>
 	);
 }

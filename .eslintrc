@@ -7,7 +7,8 @@
 			{
 				"allowObject": true
 			}
-		]
+		],
+		"react/display-name": [0, { "ignoreTranspilerName": true }]
 	},
 	"env": {
 		"browser": true,
