@@ -2,7 +2,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import React from 'react';
 import styles from '../styles/main.module.scss';
-import { getCleanData } from '../lib/exportDiscord';
+import { getCleanData } from '../utils/exportDiscord';
 import Main from '../components/Main';
 
 export default function Home({ data }) {

@@ -5,7 +5,7 @@
 /*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  */
 
 import { DefaultSeo } from 'next-seo';
-import SEO from '../plugins/next-seo.config';
+import SEO from '../config/next-seo.config';
 import '../styles/globals.scss';
 
 function MyApp({ Component, pageProps }) {

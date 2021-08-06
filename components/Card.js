@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import styles from '../styles/card.module.scss';
 import ImageFallback from './ImageFallback';
 import Star from '../public/star.svg';
-import * as toLocalStorage from '../lib/localStorage';
+import * as toLocalStorage from '../utils/localStorage';
 
 export default function Card({ link, searchWord, id }) {
 	const currentCard = useRef(null);
