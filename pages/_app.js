@@ -6,6 +6,7 @@
 
 import { DefaultSeo } from 'next-seo';
 import SEO from '../config/next-seo.config';
+import '../styles/remedy.scss';
 import '../styles/globals.scss';
 
 function MyApp({ Component, pageProps }) {

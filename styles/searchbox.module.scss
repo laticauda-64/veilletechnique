@@ -95,3 +95,11 @@
 		left: 15px;
 	}
 }
+
+// Mobile small screen (iphone 6 & older)
+@media screen and (max-width: 320px) {
+	.searchBar input[type='text'] {
+		flex-basis: auto;
+		max-width: 300px;
+	}
+}

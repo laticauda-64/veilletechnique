@@ -23,6 +23,6 @@ p {
 	padding: 0;
 }
 
-* {
-	box-sizing: border-box;
+input[type='text']:disabled {
+	background: rgb(223, 223, 223);
 }

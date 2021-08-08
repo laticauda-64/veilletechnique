@@ -77,3 +77,11 @@
 		top: 4%;
 	}
 }
+
+// Mobile
+@media screen and (max-width: 450px) {
+	%burger {
+		top: 32px;
+		right: 23px;
+	}
+}
