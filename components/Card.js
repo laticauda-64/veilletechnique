@@ -1,11 +1,10 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect } from 'react';
 import styles from '../styles/card.module.scss';
 import ImageFallback from './ImageFallback';
 import Star from '../public/star.svg';
 import * as toLocalStorage from '../utils/localStorage';
 
 export default function Card({ link, searchWord, id }) {
-	const currentCard = useRef(null);
 	const [isLiked, setIsLiked] = useState(false);
 	let domain = new URL(link.url);
 	const regex = new RegExp(searchWord, 'gi');
@@ -26,28 +25,16 @@ export default function Card({ link, searchWord, id }) {
 	};
 
 	useEffect(() => {
-		currentCard.current.firstChild.firstChild.style.fill = isLiked
-			? '#ffd600'
-			: 'white';
-	}, [isLiked]);
-
-	useEffect(() => {
 		if (toLocalStorage.checkId(id)) {
 			setIsLiked(true);
 		}
 	}, []);
 
 	return (
-		<a
-			href={link.url}
-			rel="noreferrer"
-			target="_blank"
-			className={styles.card}
-			ref={currentCard}
-		>
+		<a href={link.url} rel="noreferrer" target="_blank" className={styles.card}>
 			<Star
 				title={'Ajouter aux favoris'}
-				className={styles.starIcon}
+				className={isLiked ? styles.starActive : styles.starInactive}
 				onClick={toggleFav}
 			/>
 			<div className={styles.imgContainer}>
@@ -62,7 +49,11 @@ export default function Card({ link, searchWord, id }) {
 			</div>
 			{link?.author?.name ? (
 				<p className={styles.author}>{link.author.name}</p>
-			) : null}
+			) : (
+				<p className={styles.author} style={{ visibility: 'hidden' }}>
+					No author
+				</p>
+			)}
 
 			<p className={styles.title} dangerouslySetInnerHTML={title}></p>
 			<p

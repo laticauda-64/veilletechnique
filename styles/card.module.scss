@@ -4,32 +4,41 @@
 	border-radius: 40px;
 	background: hsl(0, 0%, 93%);
 	padding: 0.5rem;
-	-webkit-box-shadow: 7px 7px 0px 3px hsl(225, 20%, 69%);
 	box-shadow: 7px 7px 0px 3px hsl(225, 20%, 69%);
 	margin: 0 0 2.5rem 0;
+	transition: all 0.2s ease-out;
+
+	&:hover {
+		transform: scale(0.99);
+		box-shadow: 7px 7px 0px 3px hsl(224, 20%, 49%);
+	}
 }
 
 .linkPicture {
-	border-top-left-radius: 30px;
-	border-top-right-radius: 30px;
+	border-radius: 30px 30px 0 0;
 }
 .author {
-	color: #1a7ec0;
-	font-size: 1.2rem;
-	padding: 0.2rem 0.3rem;
-	text-transform: capitalize;
-	margin-top: -70px;
-	z-index: 100;
-	background: hsla(0, 0%, 100%, 80%);
+	position: relative;
+	top: -70px;
 	width: max-content;
-	border-left: 4px solid #1a7ec0;
+	padding: 0.2rem 0.3rem;
+	color: #637297;
+	font-size: 1.2rem;
+	text-transform: capitalize;
+	background: hsla(0, 0%, 100%, 80%);
+	border-left: 4px solid #637297;
+	z-index: 100;
 }
 .title {
+	position: relative;
+	top: -70px;
 	padding: 0.5rem 0;
 	min-height: 3rem;
 	text-transform: capitalize;
 }
 .description {
+	position: relative;
+	top: -70px;
 	padding-bottom: 15px;
 	font-size: 0.8rem;
 	font-weight: lighter;
@@ -58,25 +67,34 @@
 	background: #ffe300;
 }
 
-.starIcon {
+%starIcon {
 	width: 42px;
 	height: 41x;
 	position: relative;
 	top: 5px;
 	z-index: 200;
-	margin-left: auto;
-	margin-right: 10px;
+	margin: 0 10px 0 auto;
 	filter: drop-shadow(6px 2px 0px rgba(114, 114, 114, 0.8));
+
+	&:hover > path {
+		fill: hsl(50, 100%, 50%);
+	}
+}
+
+.starActive {
+	@extend %starIcon;
+
+	path {
+		fill: hsl(50, 100%, 50%);
+		stroke-width: 0;
+	}
+}
+
+.starInactive {
+	@extend %starIcon;
 
 	path {
 		fill: hsl(0, 0%, 100%);
 		stroke-width: 0;
-	}
-	&:hover {
-		cursor: pointer;
-	}
-
-	&:hover > path {
-		fill: hsl(50, 100%, 50%);
 	}
 }

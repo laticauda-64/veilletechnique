@@ -19,7 +19,7 @@
 	border-radius: 10px;
 }
 
-.clearButton {
+%clearButton {
 	width: 35px;
 	height: 64px;
 	background-image: url(/delete.svg);
@@ -30,14 +30,23 @@
 	align-items: center;
 	position: relative;
 	left: 50px;
-	visibility: hidden;
 
 	&:hover {
 		cursor: pointer;
 	}
 }
 
-.starIcon {
+.hidden {
+	@extend %clearButton;
+	visibility: hidden;
+}
+
+.visible {
+	@extend %clearButton;
+	visibility: visible;
+}
+
+%starIcon {
 	margin-left: 20px;
 	width: 60px;
 	height: 58px;
@@ -49,13 +58,28 @@
 		stroke: hsl(224, 20%, 49%);
 		stroke-width: 0;
 	}
-	&:hover {
-		cursor: pointer;
-	}
 
 	&:hover > path {
 		cursor: pointer;
 		fill: hsl(50, 100%, 50%);
+	}
+}
+
+.starActive {
+	@extend %starIcon;
+
+	path {
+		fill: hsl(50, 100%, 50%);
+		stroke-width: 0;
+	}
+}
+
+.starInactive {
+	@extend %starIcon;
+
+	path {
+		fill: hsl(0, 0%, 100%);
+		stroke-width: 0;
 	}
 }
 
@@ -75,7 +99,7 @@
 
 // Mobile (landscape)
 @media screen and (max-width: 900px) {
-	.starIcon {
+	%starIcon {
 		display: none;
 	}
 }
@@ -86,7 +110,7 @@
 		flex-basis: auto;
 		max-width: 350px;
 	}
-	.starIcon {
+	%starIcon {
 		display: none;
 	}
 
