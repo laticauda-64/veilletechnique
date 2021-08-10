@@ -32,12 +32,12 @@ export default function Card({ link, searchWord, id }) {
 
 	return (
 		<a href={link.url} rel="noreferrer" target="_blank" className={styles.card}>
-			<Star
-				title={'Ajouter aux favoris'}
-				className={isLiked ? styles.starActive : styles.starInactive}
-				onClick={toggleFav}
-			/>
 			<div className={styles.imgContainer}>
+				<Star
+					title={'Ajouter aux favoris'}
+					className={isLiked ? styles.starActive : styles.starInactive}
+					onClick={toggleFav}
+				/>
 				<ImageFallback
 					src={link.thumbnail?.url || '/not-found-img.svg'}
 					fallbackSrc={'/not-found-opt.svg'}
@@ -46,15 +46,15 @@ export default function Card({ link, searchWord, id }) {
 					layout="fill"
 					objectFit="cover"
 				/>
-			</div>
-			{link?.author?.name ? (
-				<p className={styles.author}>{link.author.name}</p>
-			) : (
-				<p className={styles.author} style={{ visibility: 'hidden' }}>
-					No author
-				</p>
-			)}
 
+				{link?.author?.name ? (
+					<p className={styles.author}>{link.author.name}</p>
+				) : (
+					<p className={styles.author} style={{ visibility: 'hidden' }}>
+						No author
+					</p>
+				)}
+			</div>
 			<p className={styles.title} dangerouslySetInnerHTML={title}></p>
 			<p
 				className={styles.description}
