@@ -74487,6 +74487,2024 @@
 				}
 			],
 			"mentions": []
+		},
+		{
+			"id": "873632493931233351",
+			"type": "Default",
+			"timestamp": "2021-08-07T18:23:37.86+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Super site de ressources, très quali:\n\nhttps://designjunction.webflow.io/",
+			"author": {
+				"id": "380462670442135552",
+				"name": "Corentin_dev",
+				"discriminator": "4442",
+				"nickname": "Corentin_dev",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "Design Junction | Free Design Resources",
+					"url": "https://designjunction.webflow.io/",
+					"timestamp": null,
+					"description": "Design Junction is a one-stop resource library for Designers and Creatives with curated list of best resources handpicked from around the web.",
+					"thumbnail": {
+						"url": "https://media.discordapp.net/attachments/777900382759551016/869849346705866752/Frame_51_1.png",
+						"width": 1200,
+						"height": 630
+					},
+					"fields": []
+				}
+			],
+			"reactions": [
+				{
+					"emoji": {
+						"id": null,
+						"name": "\uD83D\uDC4D",
+						"isAnimated": false,
+						"imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+					},
+					"count": 1
+				}
+			],
+			"mentions": []
+		},
+		{
+			"id": "873640925027504159",
+			"type": "Default",
+			"timestamp": "2021-08-07T18:57:07.99+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://movilab.org/wiki/Coder_en_python_dans_Minecraft",
+			"author": {
+				"id": "601863838715084800",
+				"name": "{{ $BISOUNOURSE }}",
+				"discriminator": "0457",
+				"nickname": "{{ $BISOUNOURSE }}",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/601863838715084800/3c87bd6277810146c5f93447fb4e1e25.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "Coder en python dans Minecraft",
+					"url": "https://movilab.org/wiki/Coder_en_python_dans_Minecraft",
+					"timestamp": null,
+					"description": "",
+					"thumbnail": {
+						"url": "https://images-ext-2.discordapp.net/external/eW-jxAMcpcIPgICW1hEN-x9PjWTsBaQxvFKhnIqgQlQ/https/movilab.org/images/movilab/7/79/Movilabimageblanc.png",
+						"width": 738,
+						"height": 321
+					},
+					"fields": []
+				}
+			],
+			"reactions": [
+				{
+					"emoji": {
+						"id": null,
+						"name": "\uD83D\uDC4D",
+						"isAnimated": false,
+						"imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+					},
+					"count": 1
+				}
+			],
+			"mentions": []
+		},
+		{
+			"id": "873812130032390154",
+			"type": "Default",
+			"timestamp": "2021-08-08T06:17:26.444+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://codepen.io/chriscoyier/pen/JpLzjd",
+			"author": {
+				"id": "446977256691335170",
+				"name": "Laticauda",
+				"discriminator": "3814",
+				"nickname": "Laticauda",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/446977256691335170/0cbaf8fef5e5b3eda90d2f24b188bbe3.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "HTML Kitchen-sink",
+					"url": "https://codepen.io/chriscoyier/pen/JpLzjd",
+					"timestamp": null,
+					"description": "Sample markup containing most HTML5 elements for jumpstarting/testing css...",
+					"author": {
+						"name": "Chris Coyier",
+						"url": "https://codepen.io/chriscoyier"
+					},
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "873812328402001950",
+			"type": "Default",
+			"timestamp": "2021-08-08T06:18:13.739+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Un codepen qui regroupe les resets CSS les plus populaires",
+			"author": {
+				"id": "446977256691335170",
+				"name": "Laticauda",
+				"discriminator": "3814",
+				"nickname": "Laticauda",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/446977256691335170/0cbaf8fef5e5b3eda90d2f24b188bbe3.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "874984532854595604",
+			"type": "Default",
+			"timestamp": "2021-08-11T11:56:09.059+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://www.youtube.com/watch?v=58K-JQGgrSU",
+			"author": {
+				"id": "371965889873969155",
+				"name": "Bad Witch",
+				"discriminator": "0635",
+				"nickname": "Bad Witch",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/371965889873969155/d726cd54256edd6fd83734eeaf0acdca.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "Comment se Reconvertir en Développeur Web à 36ans avec Arnaud",
+					"url": "https://www.youtube.com/watch?v=58K-JQGgrSU",
+					"timestamp": null,
+					"description": "Comment se reconversion professionnelle en web Développeur Web à 36 ans. \nOn parle des pièges de la reconversion professionnelle et surtout comment les évités.\nArnaud est un de mes anciens élevés OPENCLASSROOMS...  \n► ABONNE TOI\nAbonne toi ici : https://bit.ly/3BwClOC\n\n► Retrouver Arnaud \nLinkedin : https://www.linkedin.com/in/arnaud-stutz/\nPort...",
+					"color": "#FF0000",
+					"author": {
+						"name": "Javascript Academy",
+						"url": "https://www.youtube.com/channel/UCG6hmXTj8Lg1zTCx0N0c2kg"
+					},
+					"thumbnail": {
+						"url": "https://images-ext-2.discordapp.net/external/yp-O6BeTfl43TQYHaPXxpw4HABhkARtToMHTKxc-hpg/https/i.ytimg.com/vi/58K-JQGgrSU/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					},
+					"fields": []
+				}
+			],
+			"reactions": [
+				{
+					"emoji": {
+						"id": null,
+						"name": "\uD83D\uDE00",
+						"isAnimated": false,
+						"imageUrl": "https://twemoji.maxcdn.com/2/svg/1f600.svg"
+					},
+					"count": 1
+				}
+			],
+			"mentions": []
+		},
+		{
+			"id": "875120968455045150",
+			"type": "Default",
+			"timestamp": "2021-08-11T20:58:17.841+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://youtu.be/cuHDQhDhvPE",
+			"author": {
+				"id": "446977256691335170",
+				"name": "Laticauda",
+				"discriminator": "3814",
+				"nickname": "Laticauda",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/446977256691335170/0cbaf8fef5e5b3eda90d2f24b188bbe3.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "I built the same app 10 times // Which JS Framework is best?",
+					"url": "https://www.youtube.com/watch?v=cuHDQhDhvPE",
+					"timestamp": null,
+					"description": "I built a simple app with 10 different JavaScript frameworks... Learn the pros and cons of each JS framework before building your next app https://github.com/fireship-io/10-javascript-frameworks\n\n#javascript #webdev #top10\n\n\uD83D\uDD17 Resources\n\nFull Courses https://fireship.io/courses/\nPerformance Benchmarks https://github.com/krausest/js-framework-benc...",
+					"color": "#FF0000",
+					"author": {
+						"name": "Fireship",
+						"url": "https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA"
+					},
+					"thumbnail": {
+						"url": "https://images-ext-1.discordapp.net/external/kytTsnhIamZcxp-FKXket7i8O00-8bLHXJpyipwUNHA/https/i.ytimg.com/vi/cuHDQhDhvPE/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					},
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "876399083852550154",
+			"type": "Reply",
+			"timestamp": "2021-08-15T09:37:04.298+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Est-ce que commencer en start up est une bonne idée pour un(e) dev junior ?",
+			"author": {
+				"id": "647737760592953364",
+				"name": "juju-a",
+				"discriminator": "1626",
+				"nickname": "juju-a",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/647737760592953364/937fbe3c329e430d062b9bf434533a11.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": [
+				{
+					"id": "371965889873969155",
+					"name": "Bad Witch",
+					"discriminator": "0635",
+					"nickname": "Bad Witch",
+					"isBot": false
+				}
+			],
+			"reference": {
+				"messageId": "867001928801714216",
+				"channelId": "630088258314960926",
+				"guildId": "629733889170210849"
+			}
+		},
+		{
+			"id": "876399432168505384",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:38:27.343+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Ça dépend de la startup et de ce que l’on cherche",
+			"author": {
+				"id": "868759604568395796",
+				"name": "Caramba",
+				"discriminator": "6994",
+				"nickname": "Caramba",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "876400161251819530",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:41:21.17+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Personnellement ce que j’ai apprécié c’est de passer par des secteurs d’activité et type de boites très très différentes",
+			"author": {
+				"id": "868759604568395796",
+				"name": "Caramba",
+				"discriminator": "6994",
+				"nickname": "Caramba",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [
+				{
+					"emoji": {
+						"id": null,
+						"name": "\uD83D\uDC4D",
+						"isAnimated": false,
+						"imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+					},
+					"count": 1
+				}
+			],
+			"mentions": []
+		},
+		{
+			"id": "876400473173786666",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:42:35.538+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "En startup il faut la mentalité flexibilité / adaptabilité, résistance au stress, et croire dans le business model",
+			"author": {
+				"id": "868759604568395796",
+				"name": "Caramba",
+				"discriminator": "6994",
+				"nickname": "Caramba",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "876400516140253184",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:42:45.782+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "@Caramba Je cherche au moins un bon mentor pour apprendre avec les bonnes pratiques ce métier et pas forcément porter des multi-casquette pour débuter",
+			"author": {
+				"id": "647737760592953364",
+				"name": "juju-a",
+				"discriminator": "1626",
+				"nickname": "juju-a",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/647737760592953364/937fbe3c329e430d062b9bf434533a11.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": [
+				{
+					"id": "868759604568395796",
+					"name": "Caramba",
+					"discriminator": "6994",
+					"nickname": "Caramba",
+					"isBot": false
+				}
+			]
+		},
+		{
+			"id": "876400712135872533",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:43:32.511+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "@juju-a ouais tu cherches «\u00A0la bonne rencontre\u00A0» c’est logique… honnêtement tu peux la trouver partout \uD83D\uDE0A",
+			"author": {
+				"id": "868759604568395796",
+				"name": "Caramba",
+				"discriminator": "6994",
+				"nickname": "Caramba",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": [
+				{
+					"id": "647737760592953364",
+					"name": "juju-a",
+					"discriminator": "1626",
+					"nickname": "juju-a",
+					"isBot": false
+				}
+			]
+		},
+		{
+			"id": "876400918109773864",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:44:21.619+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "(Ou nul part \uD83D\uDE05)",
+			"author": {
+				"id": "868759604568395796",
+				"name": "Caramba",
+				"discriminator": "6994",
+				"nickname": "Caramba",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "876401154513330176",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:45:17.982+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Je trouve que c'est assez difficile de maîtriser tout les outils et langages",
+			"author": {
+				"id": "647737760592953364",
+				"name": "juju-a",
+				"discriminator": "1626",
+				"nickname": "juju-a",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/647737760592953364/937fbe3c329e430d062b9bf434533a11.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "876401161480060938",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:45:19.643+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "La startup en junior ça peut être tres sympa",
+			"author": {
+				"id": "868759604568395796",
+				"name": "Caramba",
+				"discriminator": "6994",
+				"nickname": "Caramba",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "876401274403307540",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:45:46.566+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Haha mais tu n’as pas besoin de tout connaître hein \uD83D\uDE00",
+			"author": {
+				"id": "868759604568395796",
+				"name": "Caramba",
+				"discriminator": "6994",
+				"nickname": "Caramba",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "876401428153909258",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:46:23.223+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Ce qui compte c’est ta rapidité à t’adapter / apprendre",
+			"author": {
+				"id": "868759604568395796",
+				"name": "Caramba",
+				"discriminator": "6994",
+				"nickname": "Caramba",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "876401525344337970",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:46:46.395+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "disons une start up pas trop junior alors \uD83D\uDE05",
+			"author": {
+				"id": "647737760592953364",
+				"name": "juju-a",
+				"discriminator": "1626",
+				"nickname": "juju-a",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/647737760592953364/937fbe3c329e430d062b9bf434533a11.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "876401753078259743",
+			"type": "Reply",
+			"timestamp": "2021-08-15T09:47:40.691+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Je verrais bien quand je trouverais mon premier poste  \uD83D\uDE06",
+			"author": {
+				"id": "647737760592953364",
+				"name": "juju-a",
+				"discriminator": "1626",
+				"nickname": "juju-a",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/647737760592953364/937fbe3c329e430d062b9bf434533a11.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": [
+				{
+					"id": "868759604568395796",
+					"name": "Caramba",
+					"discriminator": "6994",
+					"nickname": "Caramba",
+					"isBot": false
+				}
+			],
+			"reference": {
+				"messageId": "876401428153909258",
+				"channelId": "630088258314960926",
+				"guildId": "629733889170210849"
+			}
+		},
+		{
+			"id": "876401754734989352",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:47:41.086+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Si tu n’es pas en capacité d’apporter de la valeur en prod vite c’est pas à conseiller je dirais",
+			"author": {
+				"id": "868759604568395796",
+				"name": "Caramba",
+				"discriminator": "6994",
+				"nickname": "Caramba",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "876401849371086868",
+			"type": "Reply",
+			"timestamp": "2021-08-15T09:48:03.649+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Salut, moi je trouve qu'elle est justement là la différence entre startup et ESN/dev interne",
+			"author": {
+				"id": "436620103908327444",
+				"name": "Djohn",
+				"discriminator": "8180",
+				"nickname": "Djohnny",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/436620103908327444/9ee7af501bdc502983546dba681c3b1a.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": [
+				{
+					"id": "647737760592953364",
+					"name": "juju-a",
+					"discriminator": "1626",
+					"nickname": "juju-a",
+					"isBot": false
+				}
+			],
+			"reference": {
+				"messageId": "876400516140253184",
+				"channelId": "630088258314960926",
+				"guildId": "629733889170210849"
+			}
+		},
+		{
+			"id": "876401905734148137",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:48:17.087+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "ça dépend du niveau de maturité de la boîte",
+			"author": {
+				"id": "436620103908327444",
+				"name": "Djohn",
+				"discriminator": "8180",
+				"nickname": "Djohnny",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/436620103908327444/9ee7af501bdc502983546dba681c3b1a.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "876401993302835262",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:48:37.965+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "pour l'instant mes expériences en startup c'est : pas de bonnes pratiques (pas le temps), pas de mentor (pas le temps), multi casquettes, etc...",
+			"author": {
+				"id": "436620103908327444",
+				"name": "Djohn",
+				"discriminator": "8180",
+				"nickname": "Djohnny",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/436620103908327444/9ee7af501bdc502983546dba681c3b1a.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "876402052367020032",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:48:52.047+00:00",
+			"timestampEdited": "2021-08-15T09:48:56.97+00:00",
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "c'est très très formateur si le format très autonome te convient",
+			"author": {
+				"id": "436620103908327444",
+				"name": "Djohn",
+				"discriminator": "8180",
+				"nickname": "Djohnny",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/436620103908327444/9ee7af501bdc502983546dba681c3b1a.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "876402140510318622",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:49:13.062+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "si tu sais te débrouiller on va te laisser faire plein de trucs et tu vas apprendre un max",
+			"author": {
+				"id": "436620103908327444",
+				"name": "Djohn",
+				"discriminator": "8180",
+				"nickname": "Djohnny",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/436620103908327444/9ee7af501bdc502983546dba681c3b1a.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "876402157191061534",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:49:17.039+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "mais ça peut faire flipper aussi",
+			"author": {
+				"id": "436620103908327444",
+				"name": "Djohn",
+				"discriminator": "8180",
+				"nickname": "Djohnny",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/436620103908327444/9ee7af501bdc502983546dba681c3b1a.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "876402194642001940",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:49:25.968+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "@Djohn c’était early-stage comme startups ?",
+			"author": {
+				"id": "868759604568395796",
+				"name": "Caramba",
+				"discriminator": "6994",
+				"nickname": "Caramba",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [
+				{
+					"emoji": {
+						"id": null,
+						"name": "\uD83D\uDC4D",
+						"isAnimated": false,
+						"imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+					},
+					"count": 1
+				}
+			],
+			"mentions": [
+				{
+					"id": "436620103908327444",
+					"name": "Djohn",
+					"discriminator": "8180",
+					"nickname": "Djohnny",
+					"isBot": false
+				}
+			]
+		},
+		{
+			"id": "876402233376387092",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:49:35.203+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "on est souvent jeté dans le bain",
+			"author": {
+				"id": "436620103908327444",
+				"name": "Djohn",
+				"discriminator": "8180",
+				"nickname": "Djohnny",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/436620103908327444/9ee7af501bdc502983546dba681c3b1a.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "876402364897173505",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:50:06.56+00:00",
+			"timestampEdited": "2021-08-15T09:50:15.459+00:00",
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "yep, ou alors justement en train de commencer à stabiliser le truc, grosse refacto du code, nouveaux employés avec plus d'expérience en archi/lead qui déarquent",
+			"author": {
+				"id": "436620103908327444",
+				"name": "Djohn",
+				"discriminator": "8180",
+				"nickname": "Djohnny",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/436620103908327444/9ee7af501bdc502983546dba681c3b1a.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "876402391598116865",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:50:12.926+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Ça dépend des projets en ESN parfois t’es balancé au charbon aussi hein \uD83D\uDE05",
+			"author": {
+				"id": "868759604568395796",
+				"name": "Caramba",
+				"discriminator": "6994",
+				"nickname": "Caramba",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [
+				{
+					"emoji": {
+						"id": null,
+						"name": "\uD83D\uDC4D",
+						"isAnimated": false,
+						"imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+					},
+					"count": 2
+				}
+			],
+			"mentions": []
+		},
+		{
+			"id": "876402406433374218",
+			"type": "Reply",
+			"timestamp": "2021-08-15T09:50:16.463+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "La prod , j'ai peu d'expérience d'ailleurs, je ne vois pas comment s’entraîner mise à part en bossant sur des repos Github de contribution \uD83E\uDDD0",
+			"author": {
+				"id": "647737760592953364",
+				"name": "juju-a",
+				"discriminator": "1626",
+				"nickname": "juju-a",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/647737760592953364/937fbe3c329e430d062b9bf434533a11.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": [
+				{
+					"id": "868759604568395796",
+					"name": "Caramba",
+					"discriminator": "6994",
+					"nickname": "Caramba",
+					"isBot": false
+				}
+			],
+			"reference": {
+				"messageId": "876401754734989352",
+				"channelId": "630088258314960926",
+				"guildId": "629733889170210849"
+			}
+		},
+		{
+			"id": "876402527984300092",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:50:45.443+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "absolument, tu peux te retrouver dans des situations similaires en ESN mais si tu fais attention tu le vois venir ^^",
+			"author": {
+				"id": "436620103908327444",
+				"name": "Djohn",
+				"discriminator": "8180",
+				"nickname": "Djohnny",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/436620103908327444/9ee7af501bdc502983546dba681c3b1a.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "876402669382697010",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:51:19.155+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Et moi en tant que «\u00A0dev interne\u00A0» on bosse comme une startup plus qu’autre chose : moyens limités, délais courts, TTM important etc etc",
+			"author": {
+				"id": "868759604568395796",
+				"name": "Caramba",
+				"discriminator": "6994",
+				"nickname": "Caramba",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [
+				{
+					"emoji": {
+						"id": null,
+						"name": "\uD83D\uDE31",
+						"isAnimated": false,
+						"imageUrl": "https://twemoji.maxcdn.com/2/svg/1f631.svg"
+					},
+					"count": 2
+				}
+			],
+			"mentions": []
+		},
+		{
+			"id": "876402728224587776",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:51:33.184+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "merde on est dans #veille-technique  !!? \uD83D\uDE31",
+			"author": {
+				"id": "436620103908327444",
+				"name": "Djohn",
+				"discriminator": "8180",
+				"nickname": "Djohnny",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/436620103908327444/9ee7af501bdc502983546dba681c3b1a.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "876402742409703424",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:51:36.566+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "on continue ça ailleurs svp ?",
+			"author": {
+				"id": "436620103908327444",
+				"name": "Djohn",
+				"discriminator": "8180",
+				"nickname": "Djohnny",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/436620103908327444/9ee7af501bdc502983546dba681c3b1a.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [
+				{
+					"emoji": {
+						"id": null,
+						"name": "\uD83D\uDE21",
+						"isAnimated": false,
+						"imageUrl": "https://twemoji.maxcdn.com/2/svg/1f621.svg"
+					},
+					"count": 1
+				}
+			],
+			"mentions": []
+		},
+		{
+			"id": "876402802899968060",
+			"type": "Reply",
+			"timestamp": "2021-08-15T09:51:50.988+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "oui quelque part en start up on se forme tout seul mais sur des vrais projets",
+			"author": {
+				"id": "647737760592953364",
+				"name": "juju-a",
+				"discriminator": "1626",
+				"nickname": "juju-a",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/647737760592953364/937fbe3c329e430d062b9bf434533a11.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [
+				{
+					"emoji": {
+						"id": null,
+						"name": "\uD83D\uDC4D",
+						"isAnimated": false,
+						"imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+					},
+					"count": 1
+				}
+			],
+			"mentions": [
+				{
+					"id": "436620103908327444",
+					"name": "Djohn",
+					"discriminator": "8180",
+					"nickname": "Djohnny",
+					"isBot": false
+				}
+			],
+			"reference": {
+				"messageId": "876402052367020032",
+				"channelId": "630088258314960926",
+				"guildId": "629733889170210849"
+			}
+		},
+		{
+			"id": "876402876623245363",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:52:08.565+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Ouais en ESN ça serait plutôt sur #VIelle technique de commerciaux hihi",
+			"author": {
+				"id": "868759604568395796",
+				"name": "Caramba",
+				"discriminator": "6994",
+				"nickname": "Caramba",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "876403092227248129",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:52:59.969+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "@juju-a j’ai moins appris en startup qu’en ESN et moins en ESN que dans ma boîte actuelle qui fêtera ses 200 ans \uD83E\uDD23",
+			"author": {
+				"id": "868759604568395796",
+				"name": "Caramba",
+				"discriminator": "6994",
+				"nickname": "Caramba",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": [
+				{
+					"id": "647737760592953364",
+					"name": "juju-a",
+					"discriminator": "1626",
+					"nickname": "juju-a",
+					"isBot": false
+				}
+			]
+		},
+		{
+			"id": "876403355411439637",
+			"type": "Reply",
+			"timestamp": "2021-08-15T09:54:02.717+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Dans je veux comprendre ou bla-blabla ?",
+			"author": {
+				"id": "647737760592953364",
+				"name": "juju-a",
+				"discriminator": "1626",
+				"nickname": "juju-a",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/647737760592953364/937fbe3c329e430d062b9bf434533a11.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": [
+				{
+					"id": "436620103908327444",
+					"name": "Djohn",
+					"discriminator": "8180",
+					"nickname": "Djohnny",
+					"isBot": false
+				}
+			],
+			"reference": {
+				"messageId": "876402742409703424",
+				"channelId": "630088258314960926",
+				"guildId": "629733889170210849"
+			}
+		},
+		{
+			"id": "876403563335655424",
+			"type": "Default",
+			"timestamp": "2021-08-15T09:54:52.29+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "La suite sur bla-bla-bla pour ceux que ça intéresserait plus tard \uD83E\uDD1B",
+			"author": {
+				"id": "868759604568395796",
+				"name": "Caramba",
+				"discriminator": "6994",
+				"nickname": "Caramba",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "876572993743114250",
+			"type": "Default",
+			"timestamp": "2021-08-15T21:08:07.647+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://youtu.be/OqcHoLWyyIw",
+			"author": {
+				"id": "446977256691335170",
+				"name": "Laticauda",
+				"discriminator": "3814",
+				"nickname": "Laticauda",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/446977256691335170/0cbaf8fef5e5b3eda90d2f24b188bbe3.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "React vs SolidJS, Fight!",
+					"url": "https://www.youtube.com/watch?v=OqcHoLWyyIw",
+					"timestamp": null,
+					"description": "Let's compare React with the upstart newcomer Solid-JS in an eCommerce showdown!\n\n00:00 Introduction\n01:31 Project introduction\n02:45 Project setup\n04:42 Creating the header\n08:09 Creating the app state\n12:30 Creating the home page\n18:40 Creating the shared store\n22:20 Creating the detail page\n24:58 Creating the mutable cart\n27:30 Supporting loc...",
+					"color": "#FF0000",
+					"author": {
+						"name": "Jack Herrington",
+						"url": "https://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw"
+					},
+					"thumbnail": {
+						"url": "https://images-ext-2.discordapp.net/external/YBwznFUVRy2qz0MR54SZQKg5KHWhyaKFWq1xULbWYzE/https/i.ytimg.com/vi/OqcHoLWyyIw/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					},
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "877279511941619814",
+			"type": "Default",
+			"timestamp": "2021-08-17T19:55:34.712+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://www.youtube.com/watch?v=goy4lZfDtCE",
+			"author": {
+				"id": "446977256691335170",
+				"name": "Laticauda",
+				"discriminator": "3814",
+				"nickname": "Laticauda",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/446977256691335170/0cbaf8fef5e5b3eda90d2f24b188bbe3.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "Reacting to Controversial Opinions of Software Engineers",
+					"url": "https://www.youtube.com/watch?v=goy4lZfDtCE",
+					"timestamp": null,
+					"description": "Software engineers can be very opinionated about their tools, patterns, and philosophies. Let’s react to some of the most controversial opinions from elite developers on Stack Overflow. \uD83D\uDD25 Grab some swag https://swag.fireship.io/\n\n\uD83D\uDD17 Resources\n\nOriginal StackOverflow question https://stackoverflow.com/questions/406760/whats-your-most-controversial...",
+					"color": "#FF0000",
+					"author": {
+						"name": "Fireship",
+						"url": "https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA"
+					},
+					"thumbnail": {
+						"url": "https://images-ext-1.discordapp.net/external/wfYTcQNnkHGQJ16QHmWetcMcQW4VpPvp8IozPRNleIo/https/i.ytimg.com/vi/goy4lZfDtCE/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					},
+					"fields": []
+				}
+			],
+			"reactions": [
+				{
+					"emoji": {
+						"id": null,
+						"name": "\uD83D\uDC4C",
+						"isAnimated": false,
+						"imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44c.svg"
+					},
+					"count": 1
+				}
+			],
+			"mentions": []
+		},
+		{
+			"id": "878013890347282452",
+			"type": "Default",
+			"timestamp": "2021-08-19T20:33:44.168+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://firezenk.github.io/zimit/design.html",
+			"author": {
+				"id": "601863838715084800",
+				"name": "{{ $BISOUNOURSE }}",
+				"discriminator": "0457",
+				"nickname": "{{ $BISOUNOURSE }}",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/601863838715084800/3c87bd6277810146c5f93447fb4e1e25.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "Zimit Framework",
+					"url": "https://firezenk.github.io/zimit/design.html",
+					"timestamp": null,
+					"description": "The consistent HTML5 framework",
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "878015056233787393",
+			"type": "Default",
+			"timestamp": "2021-08-19T20:38:22.137+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "http://www.99lime.com/elements/#list-example",
+			"author": {
+				"id": "601863838715084800",
+				"name": "{{ $BISOUNOURSE }}",
+				"discriminator": "0457",
+				"nickname": "{{ $BISOUNOURSE }}",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/601863838715084800/3c87bd6277810146c5f93447fb4e1e25.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "HTML KickStart HTML Elements & Documentation",
+					"url": "http://www.99lime.com/elements/",
+					"timestamp": null,
+					"description": "HTML KickStart is a ultra–lean set of HTML5, CSS, and jQuery (javascript) files, layouts, and elements designed to give you a headstart and save you a lot of hours on your next web project.",
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "879394569513492530",
+			"type": "Default",
+			"timestamp": "2021-08-23T16:00:03.733+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://www.youtube.com/watch?v=I4EWvMFj37g",
+			"author": {
+				"id": "446977256691335170",
+				"name": "Laticauda",
+				"discriminator": "3814",
+				"nickname": "Laticauda",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/446977256691335170/0cbaf8fef5e5b3eda90d2f24b188bbe3.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "Bash in 100 Seconds",
+					"url": "https://www.youtube.com/watch?v=I4EWvMFj37g",
+					"timestamp": null,
+					"description": "Bash is the command line shell that you encounter when you open the terminal on most Unix operating systems, like MacOS and Linux. Learn how to create your own bash scripts to automate tasks on your computer.\n\n#linux #compsci #100SecondsOfCode\n\n\uD83D\uDD17 Resources\n\nBash Reference https://www.gnu.org/software/bash/manual/bash.html\nUnix Shell History http...",
+					"color": "#FF0000",
+					"author": {
+						"name": "Fireship",
+						"url": "https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA"
+					},
+					"thumbnail": {
+						"url": "https://images-ext-1.discordapp.net/external/gxJK8chVP4J6DCK8O_QyZold90ThYKVpisUxbCrE8k4/https/i.ytimg.com/vi/I4EWvMFj37g/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					},
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "879626227235844116",
+			"type": "Default",
+			"timestamp": "2021-08-24T07:20:35.238+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://www.alsacreations.com/article/lire/1809-css-houdini-magie-ou-poudre-aux-yeux.html",
+			"author": {
+				"id": "601863838715084800",
+				"name": "{{ $BISOUNOURSE }}",
+				"discriminator": "0457",
+				"nickname": "{{ $BISOUNOURSE }}",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/601863838715084800/3c87bd6277810146c5f93447fb4e1e25.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "CSS Houdini",
+					"url": "https://www.alsacreations.com/article/lire/1809-css-houdini-magie-ou-poudre-aux-yeux.html",
+					"timestamp": null,
+					"description": "",
+					"color": "#ABC737",
+					"thumbnail": {
+						"url": "https://images-ext-1.discordapp.net/external/Mvniartsjikor6hHreIK4MxuDdYFwGmSeD7nMtjjeeM/https/cdn.alsacreations.net/xmedia/doc/full/1590497537-houdini.jpg",
+						"width": 540,
+						"height": 482
+					},
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "880434932860731422",
+			"type": "Default",
+			"timestamp": "2021-08-26T12:54:05.684+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://twitter.com/lea_linux/status/1430830265459482625?s=09",
+			"author": {
+				"id": "436620103908327444",
+				"name": "Djohn",
+				"discriminator": "8180",
+				"nickname": "Djohnny",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/436620103908327444/9ee7af501bdc502983546dba681c3b1a.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "",
+					"url": "https://twitter.com/lea_linux/status/1430830265459482625?s=09",
+					"timestamp": "2021-08-26T09:51:33.483+00:00",
+					"description": "Un cours de cryptographie donné par un prof de Stanford, ça vous dit ? https://t.co/2tDMzEOLWa (ça commence aujourd'hui et, à priori, y'a des sous-titres FR)",
+					"color": "#1DA1F2",
+					"author": {
+						"name": "Léalinux (@lea_linux)",
+						"url": "https://twitter.com/lea_linux",
+						"iconUrl": "https://images-ext-1.discordapp.net/external/Z7IqqjeIdkNKpuRd-xCZNY-kHLyZeE-U8IYSMd-rbB4/https/pbs.twimg.com/profile_images/565338345971007488/8lgoRbdc_bigger.png"
+					},
+					"image": {
+						"url": "https://images-ext-1.discordapp.net/external/cgXHsdpUzGJUBV6zIclgRkC0fH4iDOVEXA_2jUBIfpI/%3Fformat%3Djpg%26name%3D600x314/https/pbs.twimg.com/card_img/1429949993457176577/sdFE3F_U",
+						"width": 600,
+						"height": 314
+					},
+					"footer": {
+						"text": "Twitter",
+						"iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+					},
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "880713209563213825",
+			"type": "Default",
+			"timestamp": "2021-08-27T07:19:52.02+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://dev.to/aashishpanthi/free-resources-for-developers-4ona",
+			"author": {
+				"id": "597861986868396082",
+				"name": "Mikaël",
+				"discriminator": "5020",
+				"nickname": "Michka",
+				"color": "#3498DB",
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/597861986868396082/9ca16ee43a350ccf75da5d66e01902aa.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "All free resources for developers at one place",
+					"url": "https://dev.to/aashishpanthi/free-resources-for-developers-4ona",
+					"timestamp": null,
+					"description": "Well as a human, I love free things \uD83D\uDE12. So, I have gathered some free resources that I've used over...",
+					"thumbnail": {
+						"url": "https://images-ext-2.discordapp.net/external/rAPeUv6DltI2ya_FCUDWt0WOQZrd8JwSoWjDr4mOAvk/https/res.cloudinary.com/practicaldev/image/fetch/s--B2bf4G2Q--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_500%2Cq_auto%2Cw_1000/https%3A//dev-to-uploads.s3.amazonaws.com/uploads/articles/12xhug7vwziora39rvmw.png",
+						"width": 1000,
+						"height": 500
+					},
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "880715396515258378",
+			"type": "Default",
+			"timestamp": "2021-08-27T07:28:33.43+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://www.piloter.org/techno/support/base-de-donnees-relationnelle-definition.htm",
+			"author": {
+				"id": "601863838715084800",
+				"name": "{{ $BISOUNOURSE }}",
+				"discriminator": "0457",
+				"nickname": "{{ $BISOUNOURSE }}",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/601863838715084800/3c87bd6277810146c5f93447fb4e1e25.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "Qu'est-ce qu'une base de données relationnelle ? Définition",
+					"url": "https://www.piloter.org/techno/support/base-de-donnees-relationnelle-definition.htm",
+					"timestamp": null,
+					"description": "Définition, historique et principe des bases de données relationnelles qui représentent encore aujourd'hui la très large majorité des SGBD d'entreprise. Nous passerons en revue les questions essentielles de cohérence, de transaction et du modèle ACID ainsi que les notions de triggers, de procédures stockées, de verrou et de Deadlock.",
+					"thumbnail": {
+						"url": "https://images-ext-2.discordapp.net/external/HkQMzPNK6G6F66P0t4PfjGDYISGjpkcGXSIfYHur_gM/https/www.piloter.org/images/sgbd.jpg",
+						"width": 600,
+						"height": 397
+					},
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "880715708860878858",
+			"type": "Default",
+			"timestamp": "2021-08-27T07:29:47.899+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://www.editions-eni.fr/open/mediabook.aspx?idR=c5f17ae87043f7a94a2478cc5764f64d",
+			"author": {
+				"id": "601863838715084800",
+				"name": "{{ $BISOUNOURSE }}",
+				"discriminator": "0457",
+				"nickname": "{{ $BISOUNOURSE }}",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/601863838715084800/3c87bd6277810146c5f93447fb4e1e25.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "Apprendre à développer des applications web avec PHP et Symfony -  ...",
+					"url": "https://www.editions-eni.fr/open/mediabook.aspx?idR=c5f17ae87043f7a94a2478cc5764f64d",
+					"timestamp": null,
+					"description": "L’héritage Héritage de classe\n      Certaines classes peuvent avoir des éléments\nen commun. Dans la logique de ne jamais dupliquer du code inutile,\nil est apparu la notion d’héritage ent...",
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "880815858266554428",
+			"type": "Default",
+			"timestamp": "2021-08-27T14:07:45.378+00:00",
+			"timestampEdited": "2021-08-27T14:12:28.629+00:00",
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Quelques bonnes ressources si vous avez besoin de coder un carousel / slideshow / gallerie :",
+			"author": {
+				"id": "446977256691335170",
+				"name": "Laticauda",
+				"discriminator": "3814",
+				"nickname": "Laticauda",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/446977256691335170/0cbaf8fef5e5b3eda90d2f24b188bbe3.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "880815935424983102",
+			"type": "Default",
+			"timestamp": "2021-08-27T14:08:03.774+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://www.w3schools.com/w3css/w3css_slideshow.asp",
+			"author": {
+				"id": "446977256691335170",
+				"name": "Laticauda",
+				"discriminator": "3814",
+				"nickname": "Laticauda",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/446977256691335170/0cbaf8fef5e5b3eda90d2f24b188bbe3.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "880815968186695711",
+			"type": "Default",
+			"timestamp": "2021-08-27T14:08:11.585+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://css-tricks.com/css-only-carousel/",
+			"author": {
+				"id": "446977256691335170",
+				"name": "Laticauda",
+				"discriminator": "3814",
+				"nickname": "Laticauda",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/446977256691335170/0cbaf8fef5e5b3eda90d2f24b188bbe3.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "CSS-Only Carousel",
+					"url": "https://css-tricks.com/css-only-carousel/",
+					"timestamp": null,
+					"description": "It's kind of amazing how far HTML and CSS will take you when building a carousel/slideshow. Setting some boxes in a horizontal row with flexbox is easy.",
+					"color": "#FF7A18",
+					"author": {
+						"name": "Chris Coyier",
+						"url": "https://css-tricks.com/author/chriscoyier/"
+					},
+					"thumbnail": {
+						"url": "https://images-ext-1.discordapp.net/external/WqKhEdZMO_PYYh2HJtUsnYzhaOVgn6f4HHjHMvIs0O0/https/css-tricks.com/wp-json/social-image-generator/v1/image/300964",
+						"width": 1200,
+						"height": 630
+					},
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "880816404696289351",
+			"type": "Default",
+			"timestamp": "2021-08-27T14:09:55.657+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Surement le meilleur script JS pour un truc clé en main :",
+			"author": {
+				"id": "446977256691335170",
+				"name": "Laticauda",
+				"discriminator": "3814",
+				"nickname": "Laticauda",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/446977256691335170/0cbaf8fef5e5b3eda90d2f24b188bbe3.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "880816409968521317",
+			"type": "Default",
+			"timestamp": "2021-08-27T14:09:56.914+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://flickity.metafizzy.co/",
+			"author": {
+				"id": "446977256691335170",
+				"name": "Laticauda",
+				"discriminator": "3814",
+				"nickname": "Laticauda",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/446977256691335170/0cbaf8fef5e5b3eda90d2f24b188bbe3.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "Flickity",
+					"url": "https://flickity.metafizzy.co/",
+					"timestamp": null,
+					"description": "Touch, responsive, flickable carousels",
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "881082519108333589",
+			"type": "Default",
+			"timestamp": "2021-08-28T07:47:22.277+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "PHP - Un outil sympa pour avoir une vue d'ensemble sur son code :\nhttps://phpmetrics.org/",
+			"author": {
+				"id": "683353521449730113",
+				"name": "Tony-otter",
+				"discriminator": "9350",
+				"nickname": "Tony-otter",
+				"color": "#E91E63",
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/683353521449730113/60e1ef13732c5f97c7a640ccae770d12.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "PhpMetrics: static analyzys for PHP",
+					"url": "https://phpmetrics.org/",
+					"timestamp": null,
+					"description": "PhpMetrics provides various metrics about PHP projects (maintainability, lcom, cyclomatic complexity... PhpMetrics works with Jenkins, Sonar...",
+					"fields": []
+				}
+			],
+			"reactions": [
+				{
+					"emoji": {
+						"id": null,
+						"name": "\uD83D\uDC4D",
+						"isAnimated": false,
+						"imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+					},
+					"count": 1
+				}
+			],
+			"mentions": []
+		},
+		{
+			"id": "882888306508058706",
+			"type": "Default",
+			"timestamp": "2021-09-02T07:22:55.543+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://www.joshwcomeau.com/animation/keyframe-animations/",
+			"author": {
+				"id": "387564172872777728",
+				"name": "Colitopare",
+				"discriminator": "3001",
+				"nickname": "Colitopare",
+				"color": "#E91E63",
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/387564172872777728/c911519de150eb6c43c3fb6125798303.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "An Interactive Guide to Keyframe Animations",
+					"url": "https://www.joshwcomeau.com/animation/keyframe-animations/",
+					"timestamp": null,
+					"description": "CSS keyframe animations are incredibly flexible and powerful, but they’re also a bit weird. In this deep-dive tutorial, we'll learn how CSS keyframes work from the ground up, and see how to use them to build high-quality animations.",
+					"thumbnail": {
+						"url": "https://images-ext-2.discordapp.net/external/py-KSUca3oB8gr7Y3PoiohNSFJRRbSxLtp6k541kXAU/https/www.joshwcomeau.com/images/og-keyframe-animations.png",
+						"width": 1280,
+						"height": 675
+					},
+					"fields": []
+				}
+			],
+			"reactions": [
+				{
+					"emoji": {
+						"id": null,
+						"name": "\uD83D\uDC4D",
+						"isAnimated": false,
+						"imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+					},
+					"count": 1
+				}
+			],
+			"mentions": []
+		},
+		{
+			"id": "883274350080454716",
+			"type": "Default",
+			"timestamp": "2021-09-03T08:56:55.503+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://syntax.fm",
+			"author": {
+				"id": "446977256691335170",
+				"name": "Laticauda",
+				"discriminator": "3814",
+				"nickname": "Laticauda",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/446977256691335170/0cbaf8fef5e5b3eda90d2f24b188bbe3.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "STUMP'D - Coding Interview Questions — Syntax Podcast 384",
+					"url": "https://syntax.fm/",
+					"timestamp": null,
+					"description": "Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling.",
+					"color": "#F1C15D",
+					"thumbnail": {
+						"url": "https://images-ext-2.discordapp.net/external/EnO-jLQBOCK0U530klbgKASqUQQ08XH_zvNbXWJu1BM/https/syntax.fm/static/syntax-banner.png",
+						"width": 1200,
+						"height": 675
+					},
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "883281187378966558",
+			"type": "Default",
+			"timestamp": "2021-09-03T09:24:05.642+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "☝️ Un super podcast sur le dev web. JavaScript front/back.",
+			"author": {
+				"id": "446977256691335170",
+				"name": "Laticauda",
+				"discriminator": "3814",
+				"nickname": "Laticauda",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/446977256691335170/0cbaf8fef5e5b3eda90d2f24b188bbe3.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "883287964283703296",
+			"type": "Default",
+			"timestamp": "2021-09-03T09:51:01.382+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Oh merci",
+			"author": {
+				"id": "285871013760335872",
+				"name": "kayser",
+				"discriminator": "7427",
+				"nickname": "kayser",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/285871013760335872/9150ce37e542d5d4134a0ecfd0823474.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "883996394321481728",
+			"type": "Default",
+			"timestamp": "2021-09-05T08:46:04.265+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://developers.redhat.com/developer-sandbox/activities/deploying-full-stack-javascript-applications-to-the-sandbox/part1?sc_cid7013a000002wKy5AAE",
+			"author": {
+				"id": "601863838715084800",
+				"name": "{{ $BISOUNOURSE }}",
+				"discriminator": "0457",
+				"nickname": "{{ $BISOUNOURSE }}",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/601863838715084800/3c87bd6277810146c5f93447fb4e1e25.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "Full-stack JavaScript sandbox activity part 1 | Red Hat Developer",
+					"url": "https://developers.redhat.com/developer-sandbox/activities/deploying-full-stack-javascript-applications-to-the-sandbox/part1?sc_cid7013a000002wKy5AAE",
+					"timestamp": null,
+					"description": "Red Hat OpenShift is a Kubernetes distribution that makes it easy to deploy and scale applications in the cloud. In this hands-on lab, you will learn how to deploy a full-stack JavaScript application in an OpenShift cluster in three parts. This is part 1.",
+					"color": "#FFFFFF",
+					"thumbnail": {
+						"url": "https://images-ext-2.discordapp.net/external/qccDEfXVVpkKqQ6aq5lKs1hiJHfXW5kESzKttbfGYgw/%3Fitok%3DY3iiwvcj/https/developers.redhat.com/sites/default/files/styles/share/public/sandbox-javascript-card-image.png",
+						"width": 1200,
+						"height": 627
+					},
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "884121971405750342",
+			"type": "Default",
+			"timestamp": "2021-09-05T17:05:04.175+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://www.amen.fr/nom-de-domaine/",
+			"author": {
+				"id": "601863838715084800",
+				"name": "{{ $BISOUNOURSE }}",
+				"discriminator": "0457",
+				"nickname": "{{ $BISOUNOURSE }}",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/601863838715084800/3c87bd6277810146c5f93447fb4e1e25.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "Acheter nom de domaine-enregistrer un nom de domaine-Amen.fr",
+					"url": "https://www.amen.fr/nom-de-domaine/",
+					"timestamp": null,
+					"description": "Acheter un nom de domaine avec Amen.fr, c'est choisir son identité en ligne, avec 2 Go d'hébergement, un compte de messagerie et une extension adaptée.",
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "884519233361412106",
+			"type": "Default",
+			"timestamp": "2021-09-06T19:23:38.806+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://youtu.be/Tl3kOoUFoA8",
+			"author": {
+				"id": "446977256691335170",
+				"name": "Laticauda",
+				"discriminator": "3814",
+				"nickname": "Laticauda",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/446977256691335170/0cbaf8fef5e5b3eda90d2f24b188bbe3.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "Il crée le jeu vidéo le plus inspirant de l'histoire à l'aide de ce...",
+					"url": "https://www.youtube.com/watch?v=Tl3kOoUFoA8",
+					"timestamp": null,
+					"description": "Essayez Notion ici : https://ntn.so/benjamincodenotion\n\nFollow Tim Soret on Twitter: https://twitter.com/timsoret\nMore about The Last Night: https://www.oddtales.net/\n\n00:00 Introduction\n00:58 Pourquoi cette vidéo\n02:23 Mon utilisation de Notion\n05:25 L'exposé de Tim Soret sur Notion\n\nFollow me on Twitter:\nhttps://twitter.com/benjamincode\n\nMy ba...",
+					"color": "#FF0000",
+					"author": {
+						"name": "Benjamin Code",
+						"url": "https://www.youtube.com/channel/UCLOAPb7ATQUs_nDs9ViLcMw"
+					},
+					"thumbnail": {
+						"url": "https://images-ext-1.discordapp.net/external/2jbgArh7zt3Si5scY70R7NUySjh0pHB7_Mhqg5QtisE/https/i.ytimg.com/vi/Tl3kOoUFoA8/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					},
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "884697065903509564",
+			"type": "Default",
+			"timestamp": "2021-09-07T07:10:17.388+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://www.youtube.com/watch?v=MRahw3qnRBQ",
+			"author": {
+				"id": "446977256691335170",
+				"name": "Laticauda",
+				"discriminator": "3814",
+				"nickname": "Laticauda",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/446977256691335170/0cbaf8fef5e5b3eda90d2f24b188bbe3.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "Styling forms just got easier!",
+					"url": "https://www.youtube.com/watch?v=MRahw3qnRBQ",
+					"timestamp": null,
+					"description": "Styling forms just got easier! \uD83E\uDD73 - It isn't everything, but it's a nice step in the right direction. Heads up, it's currently only working on the checkbox, radio, range and progress elements.\n\n\uD83D\uDD17 Links \n✅ The codepen: https://codepen.io/kevinpowell/pen/gORbbWr\n✅ Follow me on TikTok! https://www.tiktok.com/@kevinpowellcss\n✅ Adam's Tweet about acce...",
+					"color": "#FF0000",
+					"author": {
+						"name": "Kevin Powell",
+						"url": "https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw"
+					},
+					"thumbnail": {
+						"url": "https://images-ext-2.discordapp.net/external/HJz6kkEmKSE86NcWj6b4r8UgyJ4326JxSocQMdq-xB8/https/i.ytimg.com/vi/MRahw3qnRBQ/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					},
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "884712412362711051",
+			"type": "Default",
+			"timestamp": "2021-09-07T08:11:16.269+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://www.udemy.com/course/react-js-basics-to-advanced/?couponCode=FREESEP1&utm_source=email-sendgrid&utm_medium=2722434&utm_campaign=2021-09-07&utm_term=98170214&utm_content=promo  cours de reactJs gratos pendant 2 jours",
+			"author": {
+				"id": "226679530063003658",
+				"name": "Darki",
+				"discriminator": "8952",
+				"nickname": "Darki",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/226679530063003658/662293fe0668007bd3f2478fb95b0728.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "The Complete ReactJs Course - Basics to Advanced (2021)",
+					"url": "https://www.udemy.com/course/react-js-basics-to-advanced/?couponCode=FREESEP1&utm_source=email-sendgrid&utm_medium=2722434&utm_campaign=2021-09-07&utm_term=98170214&utm_content=promo",
+					"timestamp": null,
+					"description": "Learn React JS from scratch with hands-on practice assignments and projects.",
+					"color": "#FFFFFF",
+					"thumbnail": {
+						"url": "https://images-ext-2.discordapp.net/external/7xQK1izLSfsaT0aLzBlzeB-PF5g3LN67c05nv-_HM2I/https/img-c.udemycdn.com/course/480x270/3033196_e7f4_3.jpg",
+						"width": 480,
+						"height": 270
+					},
+					"fields": []
+				}
+			],
+			"reactions": [
+				{
+					"emoji": {
+						"id": null,
+						"name": "\uD83D\uDC4D",
+						"isAnimated": false,
+						"imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+					},
+					"count": 2
+				}
+			],
+			"mentions": []
 		}
 	],
 	"messageCount": 2173
