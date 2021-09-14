@@ -76505,6 +76505,893 @@
 				}
 			],
 			"mentions": []
+		},
+		{
+			"id": "885167781908185128",
+			"type": "Default",
+			"timestamp": "2021-09-08T14:20:44.829+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://devresourc.es/",
+			"author": {
+				"id": "446977256691335170",
+				"name": "Laticauda",
+				"discriminator": "3814",
+				"nickname": "Laticauda",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/446977256691335170/0cbaf8fef5e5b3eda90d2f24b188bbe3.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "Dev Resources",
+					"url": "https://devresourc.es/",
+					"timestamp": null,
+					"description": "A collection of 1600+ resources for developers presented in curated lists. Learn programming, find a new job, discover your next favourite podcast, improve your workflow and a lot more.",
+					"color": "#0A0B0D",
+					"thumbnail": {
+						"url": "https://images-ext-2.discordapp.net/external/vZmGahF6cqVUPBpqy_lrrks9t-HYnlwlGLNPKL5MsPg/https/res.cloudinary.com/dev-resources/image/upload/q_auto%2Cw_1200/v1623007861/media/thumbnail_q80ffh.png",
+						"width": 1200,
+						"height": 675
+					},
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "885434130823778334",
+			"type": "Default",
+			"timestamp": "2021-09-09T07:59:07.359+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://www.carbondesignsystem.com/",
+			"author": {
+				"id": "597861986868396082",
+				"name": "Mikaël",
+				"discriminator": "5020",
+				"nickname": "Michka",
+				"color": "#3498DB",
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/597861986868396082/9ca16ee43a350ccf75da5d66e01902aa.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "Carbon Design System",
+					"url": "https://www.carbondesignsystem.com/",
+					"timestamp": null,
+					"description": "Carbon is the design system for IBM web and product. It is a series of individual styles, components, and guidelines used for creating unified UI.",
+					"color": "#0F62FE",
+					"thumbnail": {
+						"url": "https://images-ext-2.discordapp.net/external/xJy0xZBKMvOZAeBLlWT3VZMoy3nBYLscrbcrEZnFslk/https/www.carbondesignsystem.com/static/ogimage-8726650b0dd9d8b842abb0cec1e85e70.png",
+						"width": 1200,
+						"height": 630
+					},
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "885994130939994207",
+			"type": "Default",
+			"timestamp": "2021-09-10T21:04:21.791+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://youtu.be/naNmhXHuQ5I",
+			"author": {
+				"id": "446977256691335170",
+				"name": "Laticauda",
+				"discriminator": "3814",
+				"nickname": "Laticauda",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/446977256691335170/0cbaf8fef5e5b3eda90d2f24b188bbe3.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "Fullstack TDD Épisode 02 : Séparer la logique métier de React grâc...",
+					"url": "https://www.youtube.com/watch?v=naNmhXHuQ5I",
+					"timestamp": null,
+					"description": "Dans cet épisode, nous verrons comment appliquer l'état d'esprit TDD au front en séparant la logique métier de la librairie d'UI (react ici en l'occurrence).\n\nSuite à plein d'imprévus et étant en plein déménagement, je n'ai pas pu tourner la vidéo dans de bonnes conditions. J'ai voulu filmer avec mon téléphone ma tête, mais à la moitié de la vid...",
+					"color": "#FF0000",
+					"author": {
+						"name": "Craft Academy",
+						"url": "https://www.youtube.com/channel/UCypMQYMuV4xqlsvzmcFi2Vg"
+					},
+					"thumbnail": {
+						"url": "https://images-ext-2.discordapp.net/external/B66CUbHJ69nE3esa0SoIMyc9XC6VxL1gH7EIyigaMd0/https/i.ytimg.com/vi/naNmhXHuQ5I/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					},
+					"fields": []
+				}
+			],
+			"reactions": [
+				{
+					"emoji": {
+						"id": null,
+						"name": "\uD83D\uDC4D\uD83C\uDFFD",
+						"isAnimated": false,
+						"imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d-1f3fd.svg"
+					},
+					"count": 2
+				}
+			],
+			"mentions": []
+		},
+		{
+			"id": "886186199994224650",
+			"type": "Default",
+			"timestamp": "2021-09-11T09:47:34.622+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "http://markup.io/\nintéressant et gratuit",
+			"author": {
+				"id": "597861986868396082",
+				"name": "Mikaël",
+				"discriminator": "5020",
+				"nickname": "Michka",
+				"color": "#3498DB",
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/597861986868396082/9ca16ee43a350ccf75da5d66e01902aa.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "MarkUp",
+					"url": "http://markup.io/",
+					"timestamp": null,
+					"description": "MarkUp Website",
+					"color": "#25253C",
+					"author": {
+						"name": "nopio@dmin",
+						"url": "https://www.markup.io/blog/author/nopiodmin/"
+					},
+					"thumbnail": {
+						"url": "https://images-ext-1.discordapp.net/external/YhgfaqJ-wC-6Kz4ccwaQqDHm7erwPGOUj6RZRKkFcJk/https/www.markup.io/wp-content/uploads/2020/08/site-thumbnail.jpg",
+						"width": 600,
+						"height": 315
+					},
+					"fields": []
+				}
+			],
+			"reactions": [
+				{
+					"emoji": {
+						"id": null,
+						"name": "\uD83D\uDC4D",
+						"isAnimated": false,
+						"imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+					},
+					"count": 1
+				}
+			],
+			"mentions": []
+		},
+		{
+			"id": "886309439932604477",
+			"type": "Default",
+			"timestamp": "2021-09-11T17:57:17.313+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://www.amazon.fr/Rys-Tutorial-English-Ryan-Hodson-ebook/dp/B00QFIA5OC\nje sais pas ce que ça vaut, je l'ai pas encore lu mais si ça intéresse des gens, c'est gratuit",
+			"author": {
+				"id": "597861986868396082",
+				"name": "Mikaël",
+				"discriminator": "5020",
+				"nickname": "Michka",
+				"color": "#3498DB",
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/597861986868396082/9ca16ee43a350ccf75da5d66e01902aa.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "Ry's Git Tutorial (English Edition)",
+					"url": "https://www.amazon.fr/Rys-Tutorial-English-Ryan-Hodson-ebook/dp/B00QFIA5OC",
+					"timestamp": null,
+					"description": "Achetez et téléchargez ebook Ry's Git Tutorial (English Edition): Boutique Kindle - Programming : Amazon.fr",
+					"thumbnail": {
+						"url": "https://images-ext-1.discordapp.net/external/bRiLuuhaXOwhGs4WLSYf_Fd74Zf6fbKwwZ7dB0F66a4/https/images-eu.ssl-images-amazon.com/images/I/41BMP%252B44bJL._SR600%252c315_PIWhiteStrip%252cBottomLeft%252c0%252c35_PIStarRatingFOURANDHALF%252cBottomLeft%252c360%252c-6_SR600%252c315_ZA880%252c445%252c290%252c400%252c400%252cAmazonEmberBold%252c12%252c4%252c0%252c0%252c5_SCLZZZZZZZ_FMpng_BG255%252c255%252c255.jpg",
+						"width": 600,
+						"height": 315
+					},
+					"fields": []
+				}
+			],
+			"reactions": [
+				{
+					"emoji": {
+						"id": null,
+						"name": "\uD83D\uDC4D\uD83C\uDFFB",
+						"isAnimated": false,
+						"imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d-1f3fb.svg"
+					},
+					"count": 1
+				}
+			],
+			"mentions": []
+		},
+		{
+			"id": "886494409393340437",
+			"type": "Default",
+			"timestamp": "2021-09-12T06:12:17.469+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://phpdocker.io/generator",
+			"author": {
+				"id": "387564172872777728",
+				"name": "Colitopare",
+				"discriminator": "3001",
+				"nickname": "Colitopare",
+				"color": "#E91E63",
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/387564172872777728/c911519de150eb6c43c3fb6125798303.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "PHPDocker.io - Generator",
+					"url": "https://phpdocker.io/generator",
+					"timestamp": null,
+					"description": "PHPDocker.io is a PHP development environment generator built with Docker containers",
+					"fields": []
+				}
+			],
+			"reactions": [
+				{
+					"emoji": {
+						"id": null,
+						"name": "\uD83D\uDC4D",
+						"isAnimated": false,
+						"imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+					},
+					"count": 2
+				}
+			],
+			"mentions": []
+		},
+		{
+			"id": "886499198780993546",
+			"type": "Default",
+			"timestamp": "2021-09-12T06:31:19.348+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Oh c'est cool, ça gère le Phalcon !",
+			"author": {
+				"id": "597861986868396082",
+				"name": "Mikaël",
+				"discriminator": "5020",
+				"nickname": "Michka",
+				"color": "#3498DB",
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/597861986868396082/9ca16ee43a350ccf75da5d66e01902aa.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "886513052936200222",
+			"type": "Default",
+			"timestamp": "2021-09-12T07:26:22.436+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://www.copy.ai/\nUn site assez ouf qui permet de générer automatiquement des textes pour des pages de vente en faisant appel au copywriting. j'ai fait un essai, je suis bluffée !\n@Colitopare doit connaitre je pense",
+			"author": {
+				"id": "687943239851966477",
+				"name": "Aline",
+				"discriminator": "8779",
+				"nickname": "Aline",
+				"color": "#E91E63",
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/687943239851966477/c2e8d1d74225e88c437cb1c3e9aa8d40.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "CopyAI: Create Marketing Copy In Seconds",
+					"url": "https://www.copy.ai/",
+					"timestamp": null,
+					"description": "We have created the world's most advanced artificial intelligence copywriter that enables you to create marketing copy in seconds!",
+					"thumbnail": {
+						"url": "https://images-ext-2.discordapp.net/external/M6wxTvA5lqIecUY2dAq0Foc-MLiCSo8MI4ZsKNtlGLU/https/assets-global.website-files.com/5f4ec532319820f7c2ccd7a3/5f80d368908a304b3238efbb_logo.png",
+						"width": 858,
+						"height": 287
+					},
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": [
+				{
+					"id": "387564172872777728",
+					"name": "Colitopare",
+					"discriminator": "3001",
+					"nickname": "Colitopare",
+					"isBot": false
+				}
+			]
+		},
+		{
+			"id": "886518405253967922",
+			"type": "Reply",
+			"timestamp": "2021-09-12T07:47:38.528+00:00",
+			"timestampEdited": "2021-09-12T07:47:53.915+00:00",
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Yes derrière il y a de l’IA avec GTA3",
+			"author": {
+				"id": "387564172872777728",
+				"name": "Colitopare",
+				"discriminator": "3001",
+				"nickname": "Colitopare",
+				"color": "#E91E63",
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/387564172872777728/c911519de150eb6c43c3fb6125798303.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": [
+				{
+					"id": "687943239851966477",
+					"name": "Aline",
+					"discriminator": "8779",
+					"nickname": "Aline",
+					"isBot": false
+				}
+			],
+			"reference": {
+				"messageId": "886513052936200222",
+				"channelId": "630088258314960926",
+				"guildId": "629733889170210849"
+			}
+		},
+		{
+			"id": "886523471784464435",
+			"type": "Default",
+			"timestamp": "2021-09-12T08:07:46.483+00:00",
+			"timestampEdited": "2021-09-12T08:08:01.12+00:00",
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "@Colitopare oui, j'ai lu, c'est completement fou !\nJe suis en train de regarder pour utiliser des phrases pour mon entreprise",
+			"author": {
+				"id": "687943239851966477",
+				"name": "Aline",
+				"discriminator": "8779",
+				"nickname": "Aline",
+				"color": "#E91E63",
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/687943239851966477/c2e8d1d74225e88c437cb1c3e9aa8d40.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": [
+				{
+					"id": "387564172872777728",
+					"name": "Colitopare",
+					"discriminator": "3001",
+					"nickname": "Colitopare",
+					"isBot": false
+				}
+			]
+		},
+		{
+			"id": "886523634410213436",
+			"type": "Reply",
+			"timestamp": "2021-09-12T08:08:25.256+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "On bascule dans général si tu veux",
+			"author": {
+				"id": "387564172872777728",
+				"name": "Colitopare",
+				"discriminator": "3001",
+				"nickname": "Colitopare",
+				"color": "#E91E63",
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/387564172872777728/c911519de150eb6c43c3fb6125798303.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [
+				{
+					"emoji": {
+						"id": null,
+						"name": "\uD83D\uDC4D",
+						"isAnimated": false,
+						"imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+					},
+					"count": 1
+				}
+			],
+			"mentions": [
+				{
+					"id": "687943239851966477",
+					"name": "Aline",
+					"discriminator": "8779",
+					"nickname": "Aline",
+					"isBot": false
+				}
+			],
+			"reference": {
+				"messageId": "886523471784464435",
+				"channelId": "630088258314960926",
+				"guildId": "629733889170210849"
+			}
+		},
+		{
+			"id": "886696662158950532",
+			"type": "Default",
+			"timestamp": "2021-09-12T19:35:58.286+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://marektoth.com/blog/password-managers-autofill/",
+			"author": {
+				"id": "436620103908327444",
+				"name": "Djohn",
+				"discriminator": "8180",
+				"nickname": "Djohnny",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/436620103908327444/9ee7af501bdc502983546dba681c3b1a.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "You should turn off autofill in your password manager",
+					"url": "https://marektoth.com/blog/password-managers-autofill/",
+					"timestamp": null,
+					"description": "",
+					"color": "#252627",
+					"thumbnail": {
+						"url": "https://images-ext-1.discordapp.net/external/pyXVhICFqAxKhT0VJps96ka_REZaDz2s_5aQv0wEda8/https/marektoth.com/images/password-image.png",
+						"width": 848,
+						"height": 566
+					},
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "886922381652819978",
+			"type": "Default",
+			"timestamp": "2021-09-13T10:32:54.007+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://github.com/lusaxweb/vuesax-next",
+			"author": {
+				"id": "597861986868396082",
+				"name": "Mikaël",
+				"discriminator": "5020",
+				"nickname": "Michka",
+				"color": "#3498DB",
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/597861986868396082/9ca16ee43a350ccf75da5d66e01902aa.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "GitHub - lusaxweb/vuesax-next: Vuesax v4: framework components for ...",
+					"url": "https://github.com/lusaxweb/vuesax-next",
+					"timestamp": null,
+					"description": "Vuesax v4: framework components for Vuejs. Contribute to lusaxweb/vuesax-next development by creating an account on GitHub.",
+					"color": "#1E2327",
+					"thumbnail": {
+						"url": "https://images-ext-2.discordapp.net/external/TFPZytfM-c8Ond_NiBAtBU4dstIBRYVxCVE6SGZVEHI/https/opengraph.githubassets.com/bed11d9d61c4a47c0cafb4b913e74aa1379adb52fae903e8ffc888bf6130a67e/lusaxweb/vuesax-next",
+						"width": 1200,
+						"height": 600
+					},
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "886928351170809877",
+			"type": "Default",
+			"timestamp": "2021-09-13T10:56:37.251+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://usefathom.com/blog/anonymization",
+			"author": {
+				"id": "436620103908327444",
+				"name": "Djohn",
+				"discriminator": "8180",
+				"nickname": "Djohnny",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/436620103908327444/9ee7af501bdc502983546dba681c3b1a.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "How we built a GDPR compliant website analytics platform without us...",
+					"url": "https://usefathom.com/blog/anonymization",
+					"timestamp": null,
+					"description": "Fathom Analytics is GDPR compliant website analytics without cookies.",
+					"thumbnail": {
+						"url": "https://images-ext-1.discordapp.net/external/ZkLS9DBZ68p-Xx8HbIQ1bmfLNF2a6xGmXy0OWQl9b-I/https/usefathom.com/assets/images/old/gdpr-2x.png",
+						"width": 1200,
+						"height": 600
+					},
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "886931384424349726",
+			"type": "Default",
+			"timestamp": "2021-09-13T11:08:40.435+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://www.smashingmagazine.com/2021/08/against-privacy-infringement-web/",
+			"author": {
+				"id": "436620103908327444",
+				"name": "Djohn",
+				"discriminator": "8180",
+				"nickname": "Djohnny",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/436620103908327444/9ee7af501bdc502983546dba681c3b1a.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "Pushing Back Against Privacy Infringement On The Web — Smashing Mag...",
+					"url": "https://www.smashingmagazine.com/2021/08/against-privacy-infringement-web/",
+					"timestamp": null,
+					"description": "The Web is still wrestling with issues we take for granted offline, privacy chief among them. These are steps The New York Times took to protect users’ data, and how you can too.",
+					"color": "#D33A2C",
+					"thumbnail": {
+						"url": "https://images-ext-1.discordapp.net/external/O-ulmsP2EBajCNmZRFvG6KXGkzySr3FnctVWtwBKYdI/https/cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fbab17a6-483b-4e8e-b9f1-9ab583202df1/against-privacy-infringement-web.jpg",
+						"width": 1200,
+						"height": 675
+					},
+					"fields": []
+				}
+			],
+			"reactions": [
+				{
+					"emoji": {
+						"id": null,
+						"name": "\uD83D\uDC4D\uD83C\uDFFB",
+						"isAnimated": false,
+						"imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d-1f3fb.svg"
+					},
+					"count": 1
+				}
+			],
+			"mentions": []
+		},
+		{
+			"id": "886933578494115860",
+			"type": "Default",
+			"timestamp": "2021-09-13T11:17:23.542+00:00",
+			"timestampEdited": "2021-09-13T11:17:52.008+00:00",
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Un jour au *Times* ils se sont réveillés et se sont aperçus qu'ils bafouaient la vie privée des visiteurs de leur site (comme la majorité des autres acteurs de l'actualité à vrai dire)\nEt puis ils ont décidé d'attaquer le sujet, et là ça devient intéressant \uD83D\uDE42\nComme quoi, c'est tout de même encore possible et c'est pas encore perdu, même chez de grands acteurs \uD83D\uDE01 \uD83E\uDD18\nhttps://open.nytimes.com/how-the-new-york-times-thinks-about-your-privacy-bc07d2171531",
+			"author": {
+				"id": "436620103908327444",
+				"name": "Djohn",
+				"discriminator": "8180",
+				"nickname": "Djohnny",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/436620103908327444/9ee7af501bdc502983546dba681c3b1a.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "How The New York Times Thinks About Your Privacy",
+					"url": "https://open.nytimes.com/how-the-new-york-times-thinks-about-your-privacy-bc07d2171531",
+					"timestamp": null,
+					"description": "Online privacy is complex, but it doesn’t have to be.",
+					"thumbnail": {
+						"url": "https://images-ext-1.discordapp.net/external/uXZcD3Mj-8aIw75EUc5m-xr3b8Bx1HObx63VD1kfRVc/https/miro.medium.com/max/1200/1%2Amole-5qHYsEfoDJjDZTF6g.jpeg",
+						"width": 1200,
+						"height": 730
+					},
+					"fields": []
+				}
+			],
+			"reactions": [
+				{
+					"emoji": {
+						"id": null,
+						"name": "\uD83D\uDC4D\uD83C\uDFFB",
+						"isAnimated": false,
+						"imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d-1f3fb.svg"
+					},
+					"count": 2
+				}
+			],
+			"mentions": []
+		},
+		{
+			"id": "886943379227803710",
+			"type": "Default",
+			"timestamp": "2021-09-13T11:56:20.219+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Nos amis ont encore un peu de chemin à parcourir «\u00A0Côte du Rhône\u00A0» \uD83D\uDE05",
+			"author": {
+				"id": "868759604568395796",
+				"name": "Caramba",
+				"discriminator": "6994",
+				"nickname": "Caramba",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "886943949095321600",
+			"type": "Default",
+			"timestamp": "2021-09-13T11:58:36.086+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "Après c’est plus facile quand t’as un site sur abonnement uniquement \uD83D\uDE0C",
+			"author": {
+				"id": "868759604568395796",
+				"name": "Caramba",
+				"discriminator": "6994",
+				"nickname": "Caramba",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "887093453673091134",
+			"type": "Default",
+			"timestamp": "2021-09-13T21:52:40.755+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://www.youtube.com/watch?v=G41QLRfbPRU",
+			"author": {
+				"id": "446977256691335170",
+				"name": "Laticauda",
+				"discriminator": "3814",
+				"nickname": "Laticauda",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/446977256691335170/0cbaf8fef5e5b3eda90d2f24b188bbe3.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "Discussion & Retour d'expérience : Phoenix, le nouveau front de Qwant",
+					"url": "https://www.youtube.com/watch?v=G41QLRfbPRU",
+					"timestamp": null,
+					"description": "A l'occasion d'une mission en freelance j'ai eu l'occasion d'intervenir sur le développement du front-end de la nouvelle version du moteur de recherche Qwant, nom de code **Phoenix**. A la fin de la mission j'ai pu discuter avec le reste de l'équipe pour poser les questions que vous avez suggérés sur cette refonte.\n\n00:00 Introduction\n00:37 Prés...",
+					"color": "#FF0000",
+					"author": {
+						"name": "Grafikart.fr",
+						"url": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ"
+					},
+					"thumbnail": {
+						"url": "https://images-ext-2.discordapp.net/external/UiJ7U34EKf8wtQpQsG8vLYDWTVi5FhuCP7cOR9gwKQ4/https/i.ytimg.com/vi/G41QLRfbPRU/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					},
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "887132349240864779",
+			"type": "Reply",
+			"timestamp": "2021-09-14T00:27:14.181+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "J’avais déjà commencé à regarder cette vidéo très quali \uD83D\uDC4C",
+			"author": {
+				"id": "380462670442135552",
+				"name": "Corentin_dev",
+				"discriminator": "4442",
+				"nickname": "Corentin_dev",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": [
+				{
+					"id": "446977256691335170",
+					"name": "Laticauda",
+					"discriminator": "3814",
+					"nickname": "Laticauda",
+					"isBot": false
+				}
+			],
+			"reference": {
+				"messageId": "887093453673091134",
+				"channelId": "630088258314960926",
+				"guildId": "629733889170210849"
+			}
+		},
+		{
+			"id": "887289178797273099",
+			"type": "Default",
+			"timestamp": "2021-09-14T10:50:25.261+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://stitcher.io/blog/php-in-2021",
+			"author": {
+				"id": "446977256691335170",
+				"name": "Laticauda",
+				"discriminator": "3814",
+				"nickname": "Laticauda",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/446977256691335170/0cbaf8fef5e5b3eda90d2f24b188bbe3.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "PHP in 2021 - stitcher.io",
+					"url": "https://stitcher.io/blog/php-in-2021",
+					"timestamp": null,
+					"description": "A look back and forward on PHP",
+					"color": "#FFFFFF",
+					"thumbnail": {
+						"url": "https://images-ext-1.discordapp.net/external/CXhB_OtQqhK0agS2LKZfFiteC0EwwFZsDRZ2rxi47cs/https/stitcher.io/img/meta/php-in-2021.png",
+						"width": 1200,
+						"height": 627
+					},
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "887315852490317864",
+			"type": "Default",
+			"timestamp": "2021-09-14T12:36:24.765+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://youtu.be/4zPsPivOzFc",
+			"author": {
+				"id": "446977256691335170",
+				"name": "Laticauda",
+				"discriminator": "3814",
+				"nickname": "Laticauda",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/446977256691335170/0cbaf8fef5e5b3eda90d2f24b188bbe3.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "Live - Angular dans la vraie vie en mode TDD",
+					"url": "https://www.youtube.com/watch?v=4zPsPivOzFc",
+					"timestamp": null,
+					"description": "Dans ce live, Lior nous montrera sa manière de tester ses vues en Angular.\n \nSi tu ne connais pas encore Lior Chamla, je t'invite à découvrir son parcours. Il est développeur web et formateur depuis plus de 11 ans, et forme les salariés et les étudiants sur des technologies telles que Symfony, React ou encore Angular.",
+					"color": "#FF0000",
+					"author": {
+						"name": "Artisan Développeur",
+						"url": "https://www.youtube.com/channel/UC-o56XcIj_JArG1Jlw-zgIg"
+					},
+					"thumbnail": {
+						"url": "https://images-ext-1.discordapp.net/external/wC8kIEkCu1ABvvxfBZSMM8-tcbrjPiCYHdWYlvpjUxk/https/i.ytimg.com/vi/4zPsPivOzFc/maxresdefault_live.jpg",
+						"width": 1280,
+						"height": 720
+					},
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "887358867330170911",
+			"type": "Default",
+			"timestamp": "2021-09-14T15:27:20.302+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "another javascript framework \uD83E\uDD24",
+			"author": {
+				"id": "446977256691335170",
+				"name": "Laticauda",
+				"discriminator": "3814",
+				"nickname": "Laticauda",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/446977256691335170/0cbaf8fef5e5b3eda90d2f24b188bbe3.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [],
+			"reactions": [],
+			"mentions": []
+		},
+		{
+			"id": "887358874284326963",
+			"type": "Default",
+			"timestamp": "2021-09-14T15:27:21.96+00:00",
+			"timestampEdited": null,
+			"callEndedTimestamp": null,
+			"isPinned": false,
+			"content": "https://www.youtube.com/watch?v=BRCwRhAcLJA&t=884s",
+			"author": {
+				"id": "446977256691335170",
+				"name": "Laticauda",
+				"discriminator": "3814",
+				"nickname": "Laticauda",
+				"color": null,
+				"isBot": false,
+				"avatarUrl": "https://cdn.discordapp.com/avatars/446977256691335170/0cbaf8fef5e5b3eda90d2f24b188bbe3.png?size=40"
+			},
+			"attachments": [],
+			"embeds": [
+				{
+					"title": "Tutoriel JavaScript : Découvert d'Alpine.js",
+					"url": "https://www.youtube.com/watch?v=BRCwRhAcLJA&start=884",
+					"timestamp": null,
+					"description": "Article ► https://grafikart.fr/tutoriels/alpinejs-1944\nAbonnez-vous ► https://bit.ly/GrafikartSubscribe\n\nDans cette vidéo je vous propose de découvrir [Alpine.js](https://alpinejs.dev/), un framework qui va vous permettre de dynamiser votre HTML en utilisant des attributs spécifiques.\n\nSoutenez Grafikart:\nDevenez premium ► https://grafikart.fr/p...",
+					"color": "#FF0000",
+					"author": {
+						"name": "Grafikart.fr",
+						"url": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ"
+					},
+					"thumbnail": {
+						"url": "https://images-ext-2.discordapp.net/external/r3Ep4Mkb_Jdu30ULJUHEaBd4g0MsKDa8Zldfh1-z3to/https/i.ytimg.com/vi/BRCwRhAcLJA/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					},
+					"fields": []
+				}
+			],
+			"reactions": [],
+			"mentions": []
 		}
 	],
 	"messageCount": 2173
