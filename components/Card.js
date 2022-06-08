@@ -11,10 +11,16 @@ export default function Card({ link, searchWord, id }) {
 	const replacementString = `<span class="${styles.highlightText}">${searchWord}</span>`;
 
 	const title = {
-		__html: link.title.replace(regex, replacementString),
+		__html:
+			searchWord !== ''
+				? link.title.replace(regex, replacementString)
+				: link.title,
 	};
 	const description = {
-		__html: link.description.replace(regex, replacementString),
+		__html:
+			searchWord !== ''
+				? link.description.replace(regex, replacementString)
+				: link.description,
 	};
 
 	const toggleFav = (e) => {
